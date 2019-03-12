@@ -1,0 +1,11 @@
+# phpstorm project files
+.idea
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# Mac DS_Store Files
+.DS_Store
+
