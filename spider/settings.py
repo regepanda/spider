@@ -30,19 +30,19 @@ DOWNLOADER_MIDDLEWARES = {
 
 # 指定数据库的主机IP
 REDIS_HOST = "127.0.0.1"
+
 # 指定数据库的端口号
 REDIS_PORT = 6379
 
-
-# Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'
-
-
-# Crawl responsibly by identifying yourself (and your website) on the user-agent
-# USER_AGENT = 'spider (+http://www.yourdomain.com)'
+# 将item持久化到redis时，指定key和序列化函数
+REDIS_ITEMS_KEY = 'lianjia:items'
+REDIS_ITEMS_SERIALIZER = 'json.dumps'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
+
+# Crawl responsibly by identifying yourself (and your website) on the user-agent
+USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 # CONCURRENT_REQUESTS = 32
