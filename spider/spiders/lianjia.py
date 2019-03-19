@@ -17,6 +17,12 @@ class LiajiaSpider(RedisSpider):
         html = response.text
         liajiaBaseUrl = 'https://cd.lianjia.com'
         soup = BeautifulSoup(html, 'html.parser')
+
+        # 获取下一页的url
+        nextPages = soup.find('div', class_='page-box fr').find_all('a')
+        nextPages = [nextPage.get('href') for nextPage in nextPages if isinstance(nextPage, bs4.element.Tag)]
+        nextUrl = liajiaBaseUrl + nextPages[-1]
+
         lis = soup.findAll('li', class_='clear LOGCLICKDATA')
         detailUrls = []
         for li in lis:
@@ -24,12 +30,11 @@ class LiajiaSpider(RedisSpider):
         for detailUrl in detailUrls:
             yield scrapy.Request(url=detailUrl, callback=self.detail)
 
-        # 再获取下一页的url
-        # nextPages = soup.find('div', class_='page-box fr').find_all('a')
-        # nextPages = [nextPage.get('href') for nextPage in nextPages if isinstance(nextPage, bs4.element.Tag)]
-        # nextUrl = liajiaBaseUrl + nextPages[-1]
-        # # 访问下一页信息
-        # yield scrapy.Request(url=nextUrl, callback=self.parse)
+        urlFile = open('/tmp/lianjia.txt', 'a', encoding='utf-8')
+        urlFile.write(nextUrl + '\n')
+        urlFile.close()
+        # 访问下一页信息
+        yield scrapy.Request(url=nextUrl, callback=self.parse)
 
     def detail(self, response):
         html = response.text
