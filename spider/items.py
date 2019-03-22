@@ -17,3 +17,11 @@ class LiajiaItem(scrapy.Item):
     room = scrapy.Field()
     communityName = scrapy.Field()
     area = scrapy.Field()
+
+
+class MaFengWoItem(scrapy.Item):
+    # define the fields for your item here like:
+    sheng = scrapy.Field()
+    shi = scrapy.Field()
+    url = scrapy.Field()
+    youji = scrapy.Field()

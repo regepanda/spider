@@ -35,14 +35,15 @@ REDIS_HOST = "127.0.0.1"
 REDIS_PORT = 6379
 
 # 将item持久化到redis时，指定key和序列化函数
-REDIS_ITEMS_KEY = 'lianjia:items'
-REDIS_ITEMS_SERIALIZER = 'json.dumps'
+# REDIS_ITEMS_KEY = 'lianjia:items'
+# REDIS_ITEMS_SERIALIZER = 'json.dumps'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'
+# USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 # CONCURRENT_REQUESTS = 32

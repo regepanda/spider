@@ -115,8 +115,6 @@ class SpiderDownloaderMiddleware(object):
         # fp.write(content.decode('utf-8'))
         # fp.close()
         response = HtmlResponse(url=driver.current_url, body=source, encoding='utf-8', request=request)
-        # driver.quit()
-        driver.close()
         # if content.strip() != '':
         #     return content
         return response
@@ -131,6 +129,10 @@ class SpiderDownloaderMiddleware(object):
         # - or raise IgnoreRequest: process_exception() methods of
         #   installed downloader middleware will be called
         # return None
+
+    def selenium_request(self, url):
+
+        return content
 
     def process_response(self, request, response, spider):
         # Called with the response returned from the downloader.

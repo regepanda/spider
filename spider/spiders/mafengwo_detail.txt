@@ -1,0 +1,2282 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" type="text/css" href="http://webapi.amap.com/theme/v1.3/style1536672475627.css" /><style type="text/css">.amap-indoor-map .label-canvas{position:absolute;top:0;left:0}.amap-indoor-map .highlight-image-con *{pointer-events:none}.amap-indoormap-floorbar-control{position:absolute;margin:auto 0;bottom:165px;right:12px;width:35px;text-align:center;line-height:1.3em;overflow:hidden;padding:0 2px}.amap-indoormap-floorbar-control .panel-box{background-color:rgba(255,255,255,.9);border-radius:3px;border:1px solid #ccc}.amap-indoormap-floorbar-control .select-dock{position:absolute;top:0;left:0;width:100%;box-sizing:border-box;height:30px;border:solid #4196ff;border-width:0 2px;border-radius:2px;pointer-events:none;background:linear-gradient(to bottom,#f6f8f9 0,#e5ebee 50%,#d7dee3 51%,#f5f7f9 100%)}.amap-indoor-map .transition{transition:opacity .2s},.amap-indoormap-floorbar-control .transition{transition:top .2s,margin-top .2s}.amap-indoormap-floorbar-control .select-dock:after,.amap-indoormap-floorbar-control .select-dock:before{content:"";position:absolute;width:0;height:0;left:0;top:10px;border:solid transparent;border-width:4px;border-left-color:#4196ff}.amap-indoormap-floorbar-control .select-dock:after{right:0;left:auto;border-left-color:transparent;border-right-color:#4196ff}.amap-indoormap-floorbar-control.is-mobile{width:37px}.amap-indoormap-floorbar-control.is-mobile .floor-btn{height:35px;line-height:35px}.amap-indoormap-floorbar-control.is-mobile .select-dock{height:35px;top:36px}.amap-indoormap-floorbar-control.is-mobile .select-dock:after,.amap-indoormap-floorbar-control.is-mobile .select-dock:before{top:13px}.amap-indoormap-floorbar-control.is-mobile .floor-list-box{height:105px}.amap-indoormap-floorbar-control .floor-list-item .floor-btn{color:#555;font-family:"Times New Roman",sans-serif,"Microsoft Yahei";font-size:16px}.amap-indoormap-floorbar-control .floor-list-item.selected .floor-btn{color:#000}.amap-indoormap-floorbar-control .floor-btn{height:28px;line-height:28px;overflow:hidden;cursor:pointer;position:relative;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.amap-indoormap-floorbar-control .floor-btn:hover{background-color:rgba(221,221,221,.4)}.amap-indoormap-floorbar-control .floor-minus,.amap-indoormap-floorbar-control .floor-plus{position:relative;text-indent:-1000em}.amap-indoormap-floorbar-control .floor-minus:after,.amap-indoormap-floorbar-control .floor-plus:after{content:"";position:absolute;margin:auto;top:9px;left:0;right:0;width:0;height:0;border:solid transparent;border-width:10px 8px;border-top-color:#777}.amap-indoormap-floorbar-control .floor-minus.disabled,.amap-indoormap-floorbar-control .floor-plus.disabled{opacity:.3}.amap-indoormap-floorbar-control .floor-plus:after{border-bottom-color:#777;border-top-color:transparent;top:-3px}.amap-indoormap-floorbar-control .floor-list-box{max-height:153px;position:relative;overflow-y:hidden}.amap-indoormap-floorbar-control .floor-list{margin:0;padding:0;list-style:none}.amap-indoormap-floorbar-control .floor-list-item{position:relative}.amap-indoormap-floorbar-control .floor-btn.disabled,.amap-indoormap-floorbar-control .floor-btn.disabled *,.amap-indoormap-floorbar-control.with-indrm-loader *{-webkit-pointer-events:none!important;pointer-events:none!important}.amap-indoormap-floorbar-control .with-indrm-loader .floor-nonas{opacity:.5}.amap-indoor-map-moverf-marker{color:#555;background-color:#FFFEEF;border:1px solid #7E7E7E;padding:3px 6px;font-size:12px;white-space:nowrap;display:inline-block;position:absolute;top:1em;left:1.2em}.amap-indoormap-floorbar-control .amap-indrm-loader{-moz-animation:amap-indrm-loader 1.25s infinite linear;-webkit-animation:amap-indrm-loader 1.25s infinite linear;animation:amap-indrm-loader 1.25s infinite linear;border:2px solid #91A3D8;border-right-color:transparent;box-sizing:border-box;display:inline-block;overflow:hidden;text-indent:-9999px;width:13px;height:13px;border-radius:7px;position:absolute;margin:auto;top:0;left:0;right:0;bottom:0}@-moz-keyframes amap-indrm-loader{0%{-moz-transform:rotate(0);transform:rotate(0)}100%{-moz-transform:rotate(360deg);transform:rotate(360deg)}}@-webkit-keyframes amap-indrm-loader{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes amap-indrm-loader{0%{-moz-transform:rotate(0);-ms-transform:rotate(0);-webkit-transform:rotate(0);transform:rotate(0)}100%{-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-webkit-transform:rotate(360deg);transform:rotate(360deg)}}</style><script type="text/javascript" async="" charset="utf-8" src="http://c.cnzz.com/core.php?web_id=30065558&amp;t=q"></script><script type="text/javascript" async="" charset="utf-8" src="http://w.cnzz.com/c.php?id=30065558&amp;async=1"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>2019重庆旅游攻略,重庆自由行攻略,马蜂窝重庆出游攻略游记 - 马蜂窝</title>
+<meta name="description" content="2019重庆旅游攻略,介绍了重庆旅游景点、线路、美食、住宿、地图等重庆旅游攻略信息,了解重庆旅游等自由行攻略信息来马蜂窝旅游攻略网。" />
+<meta name="keywords" content="2019重庆旅游攻略,重庆自助游,重庆自由行" />
+<meta name="renderer" content="webkit" />
+<link rel="canonical" href="http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10208.html" />
+<script type="text/javascript">
+window.Env = {"MDDID":10208,"MDDADM":0,"isCnmain":true,"WWW_HOST":"www.mafengwo.cn","IMG_HOST":"images.mafengwo.net","W_HTTP":"http:\/\/w.mafengwo.cn","P_HOST":"passport.mafengwo.cn","P_HTTP":"https:\/\/passport.mafengwo.cn","PAGELET_HTTP":"http:\/\/pagelet.mafengwo.cn","JS_HOST":"js.mafengwo.net","TONGJI_HOST":"tongji.mafengwo.cn","UID":0,"CSTK":"4493bc0f99344a45c484cdcba4b76349_21ef7525b637410c71921509911cc7fb","GOOGLE_MAP_KEY":"AIzaSyD-Su0x_rPy1xehlMBcMyTqWkU49Bk53nQ"};
+</script>
+
+<link href="http://css.mafengwo.net/css/cv/css+base:css+jquery.suggest:css+plugins:css+plugins+jquery.jgrowl:css+other+popup:css+mfw-header.2015^YlVS^1542357401.css" rel="stylesheet" type="text/css" />
+
+<link href="http://css.mafengwo.net/css/cv/css+mdd+place-v2:css+mdd+map-mark.v2^YFM^1545380517.css" rel="stylesheet" type="text/css" />
+
+
+<script language="javascript" src="http://js.mafengwo.net/js/cv/js+jquery-1.8.1.min:js+global+json2:js+M+Module:js+M+M:js+M+Log:js+m.statistics:js+advert+inspector^alw^1552979155.js" type="text/javascript" crossorigin="anonymous"></script>
+
+<script async="" src="http://js.mafengwo.net/js/cv/js+Dropdown:js+pageletcommon+pageHeadUserInfoWWWNormal:js+jquery.tmpl:js+M+module+InputListener:js+M+module+SuggestionXHR:js+M+module+DropList:js+M+module+Suggestion:js+M+module+MesSearchEvent:js+SiteSearch:js+AHeader:js+hotel+mfwmap+mfwmap-util:js+hotel+mfwmap+mfwmap-event:js+hotel+mfwmap+mfwmap-runtime-google:js+hotel+mfwmap+mfwmap-runtime-amap:js+hotel+mfwmap+mfwmap-runtime-leaflet:js+hotel+mfwmap+mfwmap:js+hotel+mfwmap+mfwmap-overlays:js+mdd+mdddetailroute:js+mdd+ControllerHotelTag:js+mdd+mdd_detail:js+M+module+PageAdmin:js+M+module+Storage:js+M+module+Cookie:js+M+module+ResourceKeeper:js+jquery.jgrowl.min:js+AMessage:js+M+module+dialog+Layer:js+M+module+dialog+DialogBase:js+M+module+dialog+Dialog:js+M+module+dialog+alert:js+M+module+FrequencyVerifyControl:js+M+module+FrequencySystemVerify:js+ALogin:js+M+module+ScrollObserver:js+M+module+QRCode:js+AToolbar:js+ACnzzGaLog:js+ARecruit:js+ALazyLoad^alRS^1552035728.js" crossorigin="anonymous"></script><script async="" src="http://js.mafengwo.net/js/BrowserState.js?1542357400" crossorigin="anonymous"></script><style type="text/css">.amap-container{cursor:url(http://webapi.amap.com/theme/v1.3/openhand.cur),default;}.amap-drag{cursor:url(http://webapi.amap.com/theme/v1.3/closedhand.cur),default;}</style></head>
+<body style="position: relative;">
+    
+    
+    
+
+<div id="header" xmlns="http://www.w3.org/1999/html">
+    <div class="mfw-header">
+        <div class="header-wrap clearfix">
+            <div class="head-logo"><a class="mfw-logo" title="马蜂窝自由行" href="http://www.mafengwo.cn/"></a></div>
+            <ul class="head-nav" data-cs-t="headnav" id="_j_head_nav">
+                <li class="head-nav-index" data-cs-p="index"><a href="http://www.mafengwo.cn/">首页</a></li>
+                <li class="head-nav-place head-nav-active" data-cs-p="mdd"><a href="http://www.mafengwo.cn/mdd/" title="目的地">目的地</a></li>
+                <li class="head-nav-gonglve" data-cs-p="gonglve"><a href="http://www.mafengwo.cn/gonglve/" title="旅游攻略">旅游攻略</a></li>
+                <li class="head-nav-sales head-nav-dropdown _j_sales_nav_show" id="_j_nav_sales" data-cs-p="sales">
+                    <a class="drop-toggle" href="http://www.mafengwo.cn/sales/" style="cursor: pointer;display: block;border-bottom:0 none;" data-sales-nav="旅行商城">
+                        <span>旅行商城<i class="icon-caret-down"></i></span>
+                    </a>
+                    <div class="dropdown-menu dropdown-sales hide _j_sales_top" id="_j_sales_panel" data-cs-t="sales_nav">
+                        <ul>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/sales/" data-sales-nav="机票＋酒店">自由行<i class="i-hot">hot</i></a></li>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/sales/0-0-0-0-0-0-0-0.html?group=4" data-sales-nav="跟团游">跟团游</a></li>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/localdeals/" data-sales-nav="当地游">当地游</a></li>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/flight/" data-sales-nav="国内机票">国内机票<i class="i-new">new</i></a></li>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/sales/visa/" data-sales-nav="签证">签证</a></li>
+                            
+                        </ul>
+                    </div>
+                </li>
+                <li class="head-nav-hotel" data-cs-p="hotel"><a href="http://www.mafengwo.cn/hotel/" title="酒店">酒店</a></li>
+                <li class="head-nav-community head-nav-dropdown _j_shequ_nav_show" id="_j_nav_community" data-cs-p="community">
+                    <div class="drop-toggle"><span>社区<i class="icon-caret-down"></i></span></div>
+                    <!-- 社区下拉面板 begin -->
+                    <div class="dropdown-panel dropdown-community hide _j_shequ_top no-image" id="_j_community_panel" data-cs-t="community_nav">
+                        <div class="panel-wrapper">
+                            <ul class="nav-list clearfix">
+                                <li class="h"><a href="http://www.mafengwo.cn/wenda/" target="_blank" title="问答" data-cs-p="wenda">问答<i class="i-hot">hot</i></a></li>
+                                <li><a href="http://www.mafengwo.cn/mall/things.php" target="_blank" title="马蜂窝周边" data-cs-p="things">马蜂窝周边<i class="i-new">new</i></a></li>
+                                <li><a href="http://www.mafengwo.cn/club/" target="_blank" title="蜂首俱乐部" data-cs-p="club">蜂首俱乐部</a></li>
+                                <li><a href="http://www.mafengwo.cn/together/" target="_blank" title="结伴" data-cs-p="together">结伴</a></li>
+                            </ul>
+                            <ul class="nav-list-sub clearfix">
+                                
+                                <li><a href="http://www.mafengwo.cn/group/" target="_blank" title="马蜂窝旅行家" data-cs-p="group">小组论坛</a></li>
+                                <li><a href="http://www.mafengwo.cn/rudder/" target="_blank" title="分舵同城" data-cs-p="rudder">分舵同城</a></li>
+                                <li><a href="http://www.mafengwo.cn/auction/" target="_blank" title="马蜂窝拍卖行" data-cs-p="paimai">马蜂窝拍卖行</a></li>
+                                
+                                <!--<li><a href="http://www.mafengwo.cn/postal/" target="_blank" title="游记纪念工厂" data-cs-p="postal">游记纪念工厂</a></li>-->
+                                <li><a href="http://www.mafengwo.cn/photo_pk/prev.php" target="_blank" title="照片PK" data-cs-p="photo_pk">照片PK</a></li>
+                                <li><a href="http://www.mafengwo.cn/focus/" target="_blank" title="真人兽" data-cs-p="focus">真人兽</a></li>
+                                <li><a href="http://www.mafengwo.cn/mall/virtual_goods.php" target="_blank" title="道具商店" data-cs-p="virtual">道具商店</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- 社区下拉面板 end -->
+                </li>
+                <li class="head-nav-app" data-cs-p="app"><a href="http://www.mafengwo.cn/app/intro/gonglve.php" title="APP">APP</a></li>
+            </ul>
+            <div class="head-search" data-online="1">
+                <div class="head-search-wrapper">
+                    <div class="head-searchform">
+                        <input name="q" type="text" id="_j_head_search_input" autocomplete="off" />
+                        <a role="button" href="javascript:" class="icon-search" id="_j_head_search_link"></a>
+                    </div>
+                </div>
+            </div>
+            <div id="pagelet-block-7af79787a74394bd5ae41753cb237905" class="pagelet-block" data-api="apps:user:pagelet:pageViewHeadInfo" data-params="{&quot;type&quot;:1}" data-async="1" data-controller="/js/pageletcommon/pageHeadUserInfoWWWNormal">	<div class="login-out">
+		<a class="weibo-login" href="https://passport.mafengwo.cn/weibo" title="微博登录" rel="nofollow"></a>
+		<a class="qq-login" href="https://passport.mafengwo.cn/qq" title="QQ登录" rel="nofollow"></a>
+		<a class="weixin-login" href="https://passport.mafengwo.cn/wechat" title="微信登录" rel="nofollow"></a>
+		<a id="_j_showlogin" title="登录马蜂窝" href="https://passport.mafengwo.cn" rel="nofollow">登录</a><span class="split">|</span><a href="https://passport.mafengwo.cn/regist.html" title="注册帐号" rel="nofollow">注册</a>
+	</div>
+</div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+    
+    <!-- 新自由行菜单 begin -->
+<div class="dropdown-bar" style="display: none">
+    <div class="content">
+        <ul class="clearfix ul-dropdown-bar" id="Js_middleNav">
+            <li data-type="sales"><a href="http://www.mafengwo.cn/sales/">自由行</a></li>
+            <li data-type="freewalker"><a href="http://www.mafengwo.cn/sales/0-0-0-0-0-0-0-0.html?group=4">跟团游</a></li>
+            <li data-type="localdeals"><a href="http://www.mafengwo.cn/localdeals/">当地游</a></li>
+            <li data-type="flight"><a href="http://www.mafengwo.cn/flight/">国内机票</a></li>
+            <li data-type="visa"><a href="http://www.mafengwo.cn/sales/visa/">签证</a></li>
+            <li data-type="wifi"><a href="http://www.mafengwo.cn/localdeals/0-0-0-21-0-0-0-0.html">全球WiFi</a></li>
+            <li data-type="cruise"><a href="http://www.mafengwo.cn/sales/0-0-0-5-0-0-0-0.html">邮轮</a></li>
+            
+            
+        </ul>
+    </div>
+
+</div>
+<!-- 新自由行菜单 end -->
+<script>
+    //判断是否显示 下拉bar
+;(function () {
+    window.showBarFlag = true;
+    var realPathName = location.pathname,$nav = $('#Js_middleNav');
+    var regExp = /localdeals|sales|flight|insurance|activity/gi;
+    var pathArr = realPathName.match(regExp);
+
+    var firstSalesType = 0;
+    if ([1, 3, 34, 50, 51, 52].indexOf(window.Env.salesType) &gt; -1) {
+        firstSalesType = 3
+    } else if ([4, 40, 41, 42, 43, 44].indexOf(window.Env.salesType) &gt; -1) {
+        firstSalesType = 4
+    //  } else if ([11, 90, 91, 92, 93, 94, 95, 96].indexOf(window.Env.salesType) &gt; -1) {
+    //    firstSalesType = 11
+    } else if ([6, 30, 32, 33, 35, 36].indexOf(window.Env.salesType) &gt; -1) {
+        firstSalesType = 6
+    } else if ([5].indexOf(window.Env.salesType) &gt; -1) {
+        firstSalesType = 5
+    } else if ([21, 22, 70].indexOf(window.Env.salesType) &gt; -1) {
+        firstSalesType = 21
+    } else if ([28, 29, 31, 99].indexOf(window.Env.salesType) &gt; -1) {
+        firstSalesType = 1
+    } else {
+        firstSalesType = 2
+    }
+    // } else if ([2, 9, 12, 13, 15, 17, 20, 21, 22, 23, 24, 25, 26, 46, 47, 48, 49, 60, 61, 62, 64, 65, 66, 67, 68, 70, 71, 72, 74, 75, 76, 77, 78, 79])
+
+        if(window.Env.middleNavHide) { $('.dropdown-bar').hide();return;}
+        if(realPathName == '/sales/0-0-0-5-0-0-0-0.html' || firstSalesType ==5){
+            $nav.children('[data-type="cruise"]').addClass('on');
+            window.showBarFlag = false;
+            $('.dropdown-bar').show();
+        }else if(realPathName == '/localdeals/0-0-0-21-0-0-0-0.html' || firstSalesType ==21){
+            $nav.children('[data-type="wifi"]').addClass('on');
+            window.showBarFlag = false;
+            $('.dropdown-bar').show();
+        }else if(window.Env.sales_title_tag == 'visa' || firstSalesType == 4){
+            $nav.children('[data-type="visa"]').addClass('on');
+            window.showBarFlag = false;
+            $('.dropdown-bar').show();
+        }else if(window.Env.sales_title_tag == 'semi_self_service' || realPathName == '/sales/0-0-0-6-0-0-0-0.html?group=4' || firstSalesType == 6){
+            $nav.children('[data-type="freewalker"]').addClass('on');
+            window.showBarFlag = false;
+            $('.dropdown-bar').show();
+        }
+        else if(window.Env.salesType) {
+            switch(firstSalesType|0) {
+                case 1:
+                case 3:
+                    $nav.children('[data-type="sales"]').addClass('on');
+                    break;
+                case 2:
+                    $nav.children('[data-type="localdeals"]').addClass('on');
+                    break;
+                case 30:
+                case 6:
+                    $nav.children('[data-type="freewalker"]').addClass('on');
+                    break;
+                default:
+                    $nav.children('[data-type="localdeals"]').addClass('on');
+                    break;
+            }
+            window.showBarFlag = false;
+            $('.dropdown-bar').show();
+        }
+        else {
+            if( pathArr){
+                if(pathArr.length == 1 &amp;&amp; pathArr[0] != 'activity'){
+                    switch(pathArr[0]){
+                        case 'localdeals':
+                            $nav.children('[data-type="localdeals"]').addClass('on');
+                            break;
+                        case 'insurance':
+                            $nav.children('[data-type="insurance"]').addClass('on');
+                            break;
+                        case 'sales':
+                            $nav.children('[data-type="sales"]').addClass('on');
+                            break;
+                        case 'flight':
+                            $nav.children('[data-type="flight"]').addClass('on');
+                            break;
+                        default:
+                            break;
+                    }
+                    window.showBarFlag = false;
+                    $('.dropdown-bar').show();
+                }else {
+                    if('activity'.indexOf(pathArr) != -1){
+                        window.showBarFlag  = true;
+                        $('.dropdown-bar').hide();
+                    }
+                }
+        }
+    }
+        // 点击时触发
+        $('.ul-dropdown-bar &gt; li').on('click',function () {
+            $(this).addClass('on').siblings().removeClass('on');
+        });
+})();
+
+</script>
+
+</div>
+
+
+<div id="container" data-cs-t="目的地详情页">
+    <div class="row row-placeTop row-bg">
+        <div class="wrapper">
+            <div class="extra">
+                
+                <div class="action">
+                                            <a class="btn-collect" href="javascript:void(0)" _iswg="0" _mddid="10208" data-act="want_go" data-cs-l="收藏-添加"><i class="icon"></i>收藏</a>
+                                                                <a class="btn-been" href="javascript:void(0)" _ispa="0" _mddid="10208" data-act="set_path"><i class="icon"></i>去过</a>
+                                    </div>
+            </div>
+            
+            <link href="http://css.mafengwo.net/css/cv/css+mdd+place-crumb:css+mdd+place-navbar^Z1U^1530619858.css" rel="stylesheet" type="text/css" />
+
+<script language="javascript" src="http://js.mafengwo.net/js/hotel/sign/index.js?1552035728" type="text/javascript" crossorigin="anonymous"></script>
+
+<link href="http://css.mafengwo.net/css/mdd/place-crumb.css?1530619858" rel="stylesheet" type="text/css" />
+
+
+<style type="text/css">
+    #header{
+        margin-bottom: 0;
+    }
+    .crumb {
+        width: 1000px;
+        font:12px Arial,"Microsoft Yahei","\5FAE\8F6F\96C5\9ED1",Tahoma,Helvetica,STHeiti,"Hiragino Sans GB";
+        height: 20px;
+        padding: 15px 0;
+        color: #666;
+        line-height: 20px;
+        margin: 0 auto;
+    }
+    .crumb .item a{
+        color:#666;
+        font-size:12px;
+    }
+
+</style>
+<div class="crumb">
+
+    <div class="item"><a href="/mdd/" target="_blank">目的地</a><em>&gt;</em></div>
+
+                                <div class="item">
+                <div class="drop">
+                    <span class="hd"><a href="/travel-scenic-spot/mafengwo/21536.html" target="_blank">中国<i></i></a></span>
+                                            <div class="bd">
+                            <i class="arrow"><b></b></i>
+                            <div class="col">
+                                <h3>热门地区</h3>
+                                <ul class="clearfix">
+                                                                            <li><a href="/travel-scenic-spot/mafengwo/12711.html" target="_blank">云南</a></li>
+                                                                            <li><a href="/travel-scenic-spot/mafengwo/12703.html" target="_blank">四川</a></li>
+                                                                            <li><a href="/travel-scenic-spot/mafengwo/10189.html" target="_blank">香港</a></li>
+                                                                            <li><a href="/travel-scenic-spot/mafengwo/10065.html" target="_blank">北京</a></li>
+                                                                            <li><a href="/travel-scenic-spot/mafengwo/14575.html" target="_blank">浙江</a></li>
+                                                                    </ul>
+                            </div>
+                            <div class="more"><a href="/travel-scenic-spot/mafengwo/21536.html" target="_blank">&gt;&gt;更多地区</a></div>
+                        </div>
+                                    </div>
+                <em>&gt;</em>
+            </div>
+                            <div class="item">
+        <div class="drop">
+                            <span class="hd"><a href="/travel-scenic-spot/mafengwo/10208.html">重庆<i></i></a></span>
+                <div class="bd">
+                    <i class="arrow"><b></b></i>
+                    <div class="col">
+                        <!--h3>热门国家</h3-->
+                        <ul class="clearfix">
+                                                            <li><a href="/mdd/route/10208.html" target="_blank">重庆行程线路</a></li>
+                                                            <li><a href="/jd/10208/gonglve.html" target="_blank">重庆景点</a></li>
+                                                            <li><a href="/hotel/10208/?sFrom=mdd" target="_blank">重庆酒店</a></li>
+                                                            <li><a href="/cy/10208/gonglve.html" target="_blank">重庆餐饮</a></li>
+                                                            <li><a href="/gw/10208/gonglve.html" target="_blank">重庆购物</a></li>
+                                                            <li><a href="/yl/10208/gonglve.html" target="_blank">重庆娱乐</a></li>
+                                                            <li><a href="/localdeals/0-0-M10208-0-0-0-0-0.html" target="_blank">重庆当地玩乐</a></li>
+                                                            <li><a href="/gonglve/ziyouxing/mdd_10208/" target="_blank">重庆自由行攻略</a></li>
+                                                    </ul>
+                    </div>
+                    <!--div class="more"><a href="#">&gt;&gt;更多国家</a></div-->
+                </div>
+                        </div>
+        <em>&gt;</em>
+    </div>
+    <div class="item cur"><strong>重庆旅游攻略</strong></div>
+</div>
+<script language="JavaScript" type="text/javascript">
+    $(function () {
+        //面包屑
+        $('.drop').mouseenter(function(ev) {
+            var target = $(ev.currentTarget);
+            clearTimeout(target.data('hideTimer'));
+            target.addClass('open');
+            target.children('bd').fadeIn(200);
+        });
+        $('.drop').mouseleave(function(ev) {
+            var target = $(ev.currentTarget);
+            target.data("hideTimer", setTimeout(function() {
+                target.removeClass('open');
+                target.children('bd').fadeOut(200);
+            }, 200));
+        });
+    });
+</script>
+    <div class="title" style="position: relative;">
+        <h1>重庆</h1>
+                <a class="num-photo" href="/photo/mdd/10208.html" target="_blank">(<em>918300</em>张图片)</a>
+                        <br />
+        <span class="en">ChongQing</span>
+            <div style="position: absolute;top: 3px;right: 220px;"><img src="https://b3-q.mafengwo.net/s12/M00/84/BF/wKgED1v-df2Ab5KFAAFioLPYatQ535.png" style="width: 390px;" /></div></div>
+<div class="place-navbar" style="border-top: 0;" data-cs-t="目的地导航">
+    <div class="navbar-con">
+        <ul class="navbar clearfix">
+                                                                                                                                    <li class="navbar-overview city-guide">
+                                                                                                                                                                                                                <a class="navbar-btn" href="/baike/10208_149.html" data-cs-p="概况">
+                                    <i class="navbar-icon"></i><span>概况</span>
+                                </a>
+                            </li>
+                                                                                                                                                        <li class="navbar-line">
+                                <a class="navbar-btn" href="/mdd/route/10208.html" data-cs-p="行程线路">
+                                    <i class="navbar-icon"></i><span>行程线路</span>
+                                    
+                                                                                                        </a>
+                            </li>
+                                                                                                                                                        <li class="navbar-scenic">
+                                <a class="navbar-btn" href="/jd/10208/gonglve.html" data-cs-p="景点">
+                                    <i class="navbar-icon"></i><span>景点</span>
+                                    
+                                                                                                        </a>
+                            </li>
+                                                                                                                                                        <li class="navbar-hotels">
+                                <a class="navbar-btn" href="/hotel/10208/?sFrom=mdd" data-cs-p="酒店">
+                                    <i class="navbar-icon"></i><span>酒店</span>
+                                    
+                                                                                                        </a>
+                            </li>
+                                                                                                                                                            <li class="navbar-local navbar-dropdown">
+                                <a class="navbar-btn " href="/localdeals/0-0-M10208-0-0-0-0-0.html" target="_blank" data-cs-p="当地玩乐">
+                                    <i class="navbar-icon"></i>
+                                    <span>
+                                                                                    当地玩乐
+                                                                            </span>
+                                                                        <em class="drop-corner"></em>
+                                    <b class="d12"></b>
+                                                                    </a>
+                                <div class="navbar-dropmenu hide ">
+                                    <ul class="navbar-sub clearfix">
+                                                                                    <li>
+                                                <a href="/localdeals/0-0-10208-11-0-0-0-0.html" target="_blank" data-cs-p="门票">门票</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                <a href="/localdeals/0-0-10208-12-0-0-0-0.html" target="_blank" data-cs-p="一日游">一日游</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                <a href="/localdeals/0-0-10208-20-0-0-0-0.html" target="_blank" data-cs-p="多日游">多日游</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                <a href="/localdeals/0-0-10208-2-0-0-0-0.html" target="_blank" data-cs-p="酒店套餐">酒店套餐</a>
+                                                                                            </li>
+                                                                                <li class="special"><b class="d12"></b><a href="" target="_blank">专区</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                                                                                                                                                            <li class="navbar-sales navbar-dropdown">
+                                <a class="navbar-btn " href="/sales/0-0-M10208-1-0-0-0-0.html" target="_blank" data-cs-p="特价机票">
+                                    <i class="navbar-icon"></i>
+                                    <span>
+                                                                                    特价机票
+                                                                            </span>
+                                                                        <em class="drop-corner"></em>
+                                    <b class="d12"></b>
+                                                                    </a>
+                                <div class="navbar-dropmenu hide ">
+                                    <ul class="navbar-sub clearfix">
+                                                                                    <li>
+                                                <a href="/sales/0-0-10208-6-0-0-0-0.html" target="_blank" data-cs-p="半自由行">半自由行</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                <a href="http://www.mafengwo.cn/insurance/" target="_blank" data-cs-p="旅游保险">旅游保险</a>
+                                                                                            </li>
+                                                                                <li class="special"><b class="d12"></b><a href="" target="_blank">专区</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                                                                                                                                                            <li class="navbar-community navbar-dropdown">
+                                <a class="navbar-btn ">
+                                    <i class="navbar-icon"></i>
+                                    <span>
+                                                                                    社区
+                                                                            </span>
+                                                                        <em class="drop-corner"></em>
+                                    <b class="d12"></b>
+                                                                    </a>
+                                <div class="navbar-dropmenu hide ">
+                                    <ul class="navbar-sub clearfix">
+                                                                                    <li>
+                                                <a href="/yj/10208/" data-cs-p="游记">游记</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                <a href="/xc/10208/" data-cs-p="行程">行程</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                <a href="/wenda/area-10208.html?sFrom=mdd" data-cs-p="问答">问答</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                <a href="/gonglve/mdd-10208.html" target="_blank" data-cs-p="攻略">攻略</a>
+                                                                                            </li>
+                                                                                <li class="special"><b class="d12"></b><a href="" target="_blank">专区</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                                                                                                                                                            <li class="navbar-food navbar-dropdown">
+                                <a class="navbar-btn ">
+                                    <i class="navbar-icon"></i>
+                                    <span>
+                                                                                    餐饮
+                                                                            </span>
+                                                                        <em class="drop-corner"></em>
+                                    <b class="d12"></b>
+                                                                    </a>
+                                <div class="navbar-dropmenu hide ">
+                                    <ul class="navbar-sub clearfix">
+                                                                                    <li>
+                                                <a href="/cy/10208/gonglve.html" data-cs-p="餐饮">餐饮</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                <a href="/gw/10208/gonglve.html" data-cs-p="购物">购物</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                <a href="/yl/10208/gonglve.html" data-cs-p="娱乐">娱乐</a>
+                                                                                            </li>
+                                                                                <li class="special"><b class="d12"></b><a href="" target="_blank">专区</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                                                                                                                                                        <li class="navbar-maps navbar-last">
+                                <a class="navbar-btn" href="/mdd/map/10208.html" target="_blank" data-cs-p="地图">
+                                    <i class="navbar-icon"></i><span>地图</span>
+                                    
+                                                                                                                <i class="i-hot">new</i>
+                                                                    </a>
+                            </li>
+                                                                                                    </ul>
+                    <div class="overview-drop hide" data-cs-p="概况菜单" style="height: 320px; overflow: auto;">
+                <div class="drop-bd">
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_149.html" target="_blank">概况</a></dt>
+                            <dd>
+                                                                    <a href="/baike/10208_149.html#wiki_part_1" target="_blank">重庆速览</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_149.html#wiki_part_2" target="_blank">推荐旅行时间</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_149.html#wiki_part_3" target="_blank">建议游玩天数</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_149.html#wiki_part_4" target="_blank">消费水平</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_152.html" target="_blank">不容错过</a></dt>
+                            <dd>
+                                                                    <a href="/baike/10208_152.html#wiki_part_1" target="_blank">走山城步道</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/120514.html" target="_blank">坐长江索道</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/120498.html" target="_blank">看3D轻轨</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/92346.html" target="_blank">吃地道火锅</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/11169.html" target="_blank">赏百万夜景</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_route.html" target="_blank">路线推荐</a></dt>
+                            <dd>
+                                                                    <a href="/baike/10208_route.html#wiki_part_1" target="_blank">重庆市区3日线路</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_route.html#wiki_part_2" target="_blank">重庆5日线路</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_9435.html" target="_blank">市区景点</a></dt>
+                            <dd>
+                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/93986.html?cid=1010616" target="_blank">热门景点</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/i/10328758.html" target="_blank">小众秘境</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/95930.html?cid=1010616" target="_blank">网红拍照地</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/117950.html" target="_blank">电影取景地</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/159136.html" target="_blank">洪崖洞打卡指南</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/11550.html?cid=1010616" target="_blank">文艺新地标</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/10398.html?cid=1010616" target="_blank">市井老街巷</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/140371.html" target="_blank">打卡地：解放碑</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/223150.html" target="_blank">地道小众的老街</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/186811.html" target="_blank">洪崖洞夜生活</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/254110.html" target="_blank">体验奥陶纪的惊险刺激</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_9439.html" target="_blank">周边景点</a></dt>
+                            <dd>
+                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/20457.html?cid=1010616" target="_blank">周边游盘点</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/398.html?cid=1010616" target="_blank">武隆</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/11622.html?cid=1010616" target="_blank">大足石刻</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/53288.html?cid=1010616" target="_blank">奥陶纪</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/15297.html?cid=1010616" target="_blank">三峡</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/65170.html?cid=1010616" target="_blank">酉阳县</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/244075.html" target="_blank">20个周边古镇</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/37408.html?cid=1010616" target="_blank">洪安镇</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/246466.html" target="_blank">万州大瀑布</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_9463.html" target="_blank">地道美食</a></dt>
+                            <dd>
+                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/91806.html" target="_blank">传统地道美食</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/84090.html" target="_blank">新晋网红美食</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_9467.html" target="_blank">口碑餐厅</a></dt>
+                            <dd>
+                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/68866.html" target="_blank">人气餐厅</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/88590.html" target="_blank">小资餐厅</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/72958.html" target="_blank">渝中区餐厅</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/92346.html" target="_blank">火锅店</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/108074.html" target="_blank">甜品店</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/101222.html" target="_blank">龙虾店</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_9471.html" target="_blank">美食街区</a></dt>
+                            <dd>
+                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/56812.html" target="_blank">沙坪坝美食街</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/111362.html" target="_blank">重邮堕落街</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_158.html" target="_blank">购物</a></dt>
+                            <dd>
+                                                                    <a href="/baike/10208_158.html#wiki_part_1" target="_blank">购物概况</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_158.html#wiki_part_2" target="_blank">特色商品</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_158.html#wiki_part_3" target="_blank">人气购物商圈</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/55116.html" target="_blank">购物中心</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_9483.html" target="_blank">探店</a></dt>
+                            <dd>
+                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/55320.html" target="_blank">个性书店</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_9487.html" target="_blank">当地活动</a></dt>
+                            <dd>
+                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/55248.html" target="_blank">泡温泉</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/111394.html" target="_blank">摘草莓</a>
+                                    <span>|</span>                                                                    <a href="https://m.mafengwo.cn/gonglve/ziyouxing/69470.html" target="_blank">滑雪</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_165.html" target="_blank">如何到达</a></dt>
+                            <dd>
+                                                                    <a href="/baike/10208_165.html#wiki_part_1" target="_blank">飞机</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_165.html#wiki_part_2" target="_blank">火车</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_165.html#wiki_part_3" target="_blank">汽车</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_165.html#wiki_part_4" target="_blank">自驾</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_166.html" target="_blank">市内交通</a></dt>
+                            <dd>
+                                                                    <a href="/baike/10208_166.html#wiki_part_1" target="_blank">轨道交通</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_166.html#wiki_part_2" target="_blank">公交车</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_166.html#wiki_part_3" target="_blank">出租车</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_166.html#wiki_part_4" target="_blank">观光车</a>
+                                                                                                </dd>
+                        </dl>
+                                            <dl class="clearfix">
+                            <dt><a href="/baike/10208_164.html" target="_blank">实用信息</a></dt>
+                            <dd>
+                                                                    <a href="/baike/10208_164.html#wiki_part_1" target="_blank">穿衣指南</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_164.html#wiki_part_2" target="_blank">语言</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_164.html#wiki_part_3" target="_blank">邮局与明信片</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_164.html#wiki_part_4" target="_blank">银行</a>
+                                    <span>|</span>                                                                    <a href="/baike/10208_164.html#wiki_part_5" target="_blank">旅行安全</a>
+                                                                                                </dd>
+                        </dl>
+                                    </div>
+            </div>
+            </div>
+</div><div id="fill_area" style="height: 75px;display:none;"></div>
+<script language="JavaScript" type="text/javascript">
+    (function(){
+        var navigation = $('.place-navbar'),
+            offset_top = navigation.offset().top,
+            h = navigation.outerHeight(true),
+            intervalod,
+            navdrop = $('.city-guide'),//顶导航
+            overviewdrop = $('.overview-drop'),//攻略概况
+            subtabdrop = $('.navbar-dropdown');//子菜单
+        navigation.after('&lt;div id="fill_area" style="height: '+h+'px;display:none;"&gt;&lt;/div&gt;');
+        function setFixed(){
+            
+                        var scrolltop = $(document).scrollTop(),
+                fillarea = $('#fill_area');
+            if(scrolltop  &gt; offset_top + 60){
+                fillarea.show();
+                navigation.addClass('place-navbar-fixed');
+            }else{
+                fillarea.hide();
+                navigation.removeClass('place-navbar-fixed');
+            }
+                    }
+        $(window).scroll(function(){
+            setFixed();
+        });
+        /*定导航*/
+        navdrop.mouseenter(function(ev) {
+            clearTimeout(intervalod);
+            overviewdrop.removeClass('hide');
+        });
+        navdrop.mouseleave(function(ev) {
+            intervalnd = setTimeout(function(){
+                overviewdrop.addClass('hide');
+            }, 200);
+        });
+        /*攻略概况*/
+        overviewdrop.mouseenter(function(ev) {
+            clearTimeout(intervalnd);
+            overviewdrop.removeClass('hide');
+        });
+        overviewdrop.mouseleave(function(ev) {
+            intervalod = setTimeout(function(){
+                overviewdrop.addClass('hide');
+            }, 100);
+        });
+        /*子菜单*/
+        subtabdrop.mouseenter(function(ev) {
+            $(ev.currentTarget).find('.navbar-dropmenu').removeClass('hide');
+        });
+        subtabdrop.mouseleave(function(ev) {
+            $(ev.currentTarget).find('.navbar-dropmenu').addClass('hide');
+        });
+        setFixed();
+        $(window).resize(function(){
+            setOverView();
+        });
+        function setOverView(){
+            var overViewLayer = $('.overview-drop'),
+                wHeight = $(window).height(),
+                lHeight = overViewLayer.height();
+            if(wHeight - 80 &gt; lHeight){
+                overViewLayer.css({
+                    'height'   : 'auto',
+                    'overflow' : 'hidden'
+                });
+            }else{
+                overViewLayer.css({
+                    'height'   :  wHeight - 280 &gt; 0 ? wHeight - 280 : wHeight,
+                    'overflow' : 'auto'
+                });
+            }
+        }
+        setOverView();
+    })();
+</script>
+
+<script>
+$('.row.row-placeTop .wrapper .title').css('position','relative');
+$('.row.row-placeTop .wrapper .title').append('&lt;div style="position: absolute;top: 3px;right: 220px;"&gt;&lt;img src="https://b3-q.mafengwo.net/s12/M00/84/BF/wKgED1v-df2Ab5KFAAFioLPYatQ535.png" style="width: 390px;"&gt;&lt;/div&gt;');
+</script>
+        </div>
+    </div>
+
+        
+        <div id="pagelet-block-ab6c3b8497351e979bef7b10e21a96bc" class="pagelet-block" data-api=":mdd:pagelet:routesSummaryApi" data-params="{&quot;iMddid&quot;:&quot;10208&quot;}" data-controller="">
+    <div class="row row-line">
+        <div class="wrapper">
+            <div class="r-title">
+                                    <h2 class="r-title" style="text-align: left">重庆2条经典线路</h2>
+                            </div>
+                                                                <div class="line-cards">
+                        <h3><a data-t="路线标题" href="/mdd/cityroute/10208_265.html" target="_blank"><span class="num">1</span>重庆市区3日线路</a></h3>
+                        <div class="map">
+                            <a data-t="路线地图" class="mapBox amap-container" data-lineid="265" data-showfrom="0" href="/mdd/cityroute/10208_265.html" target="_blank" style="display: block; transform: none; height: 180px; width: 488px; position: relative; background: rgb(252, 249, 242);" id="_j_map_container_540D77A2">
+                                <img src="http://n2-q.mafengwo.net/s10/M00/4F/28/wKgBZ1lsKHOAW3pHAAGPHG71Jaw009.png?imageMogr2%2Fthumbnail%2F%21488x180r%2Fgravity%2FCenter%2Fcrop%2F%21488x180%2Fquality%2F100" />
+                            <object style="display: block; position: absolute; top: 0; left: 0; height: 100%; width: 100%; overflow: hidden; pointer-events: none; z-index: -1;" type="text/html" data="about:blank"></object><div class="amap-maps"><div class="amap-drags" style=""><div class="amap-layers" style="transform: translateZ(0px);"><div class="amap-layer" style="position: absolute; z-index: 0; top: 90px; left: 244px;"><img src="http://wprd03.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=13043&amp;y=6783&amp;z=14&amp;scl=2&amp;ltype=3" style="position: absolute; top: 87px; left: 133px; width: 256px; height: 256px; z-index: 14;" /><img src="http://wprd02.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=13043&amp;y=6782&amp;z=14&amp;scl=2&amp;ltype=3" style="position: absolute; top: -169px; left: 133px; width: 256px; height: 256px; z-index: 14;" /><img src="http://wprd02.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=13042&amp;y=6783&amp;z=14&amp;scl=2&amp;ltype=3" style="position: absolute; top: 87px; left: -123px; width: 256px; height: 256px; z-index: 14;" /><img src="http://wprd01.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=13042&amp;y=6782&amp;z=14&amp;scl=2&amp;ltype=3" style="position: absolute; top: -169px; left: -123px; width: 256px; height: 256px; z-index: 14;" /><img src="http://wprd01.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=13041&amp;y=6783&amp;z=14&amp;scl=2&amp;ltype=3" style="position: absolute; top: 87px; left: -379px; width: 256px; height: 256px; z-index: 14;" /><img src="http://wprd04.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=13041&amp;y=6782&amp;z=14&amp;scl=2&amp;ltype=3" style="position: absolute; top: -169px; left: -379px; width: 256px; height: 256px; z-index: 14;" /></div><div class="amap-markers" style="position: absolute; z-index: 120; top: 90px; left: 244px;"><div class="amap-marker" style="top: 42px; left: -16px; z-index: 100; transform: rotate(0deg); transform-origin: 6px 6px; display: block;"><div class="amap-icon" style="position: absolute; width: 12px; height: 12px; opacity: 1;"><img src="http://css.mafengwo.net/images/hotel/hotel-maps-icon6.png" style="top: -314px; left: -1px;" /></div></div><div class="amap-marker" style="top: -23px; left: 4px; z-index: 100; transform: rotate(0deg); transform-origin: 6px 6px; display: block;"><div class="amap-icon" style="position: absolute; width: 12px; height: 12px; opacity: 1;"><img src="http://css.mafengwo.net/images/hotel/hotel-maps-icon6.png" style="top: -314px; left: -1px;" /></div></div><div class="amap-marker" style="top: -72px; left: 3px; z-index: 100; transform: rotate(0deg); transform-origin: 6px 6px; display: block;"><div class="amap-icon" style="position: absolute; width: 12px; height: 12px; opacity: 1;"><img src="http://css.mafengwo.net/images/hotel/hotel-maps-icon6.png" style="top: -314px; left: -1px;" /></div></div><div class="amap-marker" style="top: 60px; left: -12px; z-index: 100; transform: rotate(0deg); transform-origin: 6px 6px; display: block;"><div class="amap-icon" style="position: absolute; width: 12px; height: 12px; opacity: 1;"><img src="http://css.mafengwo.net/images/hotel/hotel-maps-icon6.png" style="top: -314px; left: -1px;" /></div></div></div><canvas class="amap-labels" draggable="false" style="position: absolute; z-index: 99; height: 180px; width: 488px; top: 0px; left: 0px;" width="976" height="360"></canvas><canvas class="amap-vectors" width="976" height="360" style="position: absolute; z-index: 110; transform-origin: 488px 180px; transform: scale3d(0.5, 0.5, 1); top: -90px; left: -244px;"></canvas></div><div class="amap-overlays" style=""></div></div></div><div style="display: none;"></div><div class="amap-controls"><div class="amap-scalecontrol" style="left: 2px; bottom: 20px; visibility: visible;"><div class="amap-scale-text" style="width: 68.1618px;">500 米</div><div class="amap-scale-line"><div class="amap-scale-edgeleft"></div><div class="amap-scale-edgeright" style="left: 61.1618px;"></div><div class="amap-scale-middle" style="width: 60.1618px;"></div></div></div><div class="amap-toolbar amap-touch-toolbar" style="right: 0px; top: 40px; visibility: visible;"><div class="amap-pancontrol" style="display: none;"><div class="amap-pan-left"></div><div class="amap-pan-top"></div><div class="amap-pan-right"></div><div class="amap-pan-bottom"></div></div><div class="amap-geo amap-toolbar-geo" style="display: none;"></div><div class="amap-zoomcontrol"><div class="amap-zoom-touch-plus"><div>+</div></div><div class="amap-zoom-ruler" style="display: none;"><div class="amap-zoom-mask" style="height: 36px;"></div><div class="amap-zoom-cursor" style="top: 36px;"></div><div class="amap-zoom-labels"><div class="amap-zoom-label-street"></div><div class="amap-zoom-label-city"></div><div class="amap-zoom-label-province"></div><div class="amap-zoom-label-country"></div></div></div><div class="amap-zoom-touch-minus"><div>−</div></div></div></div></div><a class="amap-logo" href="http://gaode.com" target="_blank"><img src="http://webapi.amap.com/theme/v1.3/logo@2x.png" /></a><div class="amap-copyright" style="display: none;"><!--v1.3.28--> © 2019 AutoNavi <span class="amap-mcode">- GS(2018)1709号</span></div></a>
+                        </div>
+                        <dl class="info">
+                                                        <dt>
+                                <a data-t="线路百分比" href="/mdd/cityroute/10208_265.html" target="_blank" style="color: #333;text-decoration: none">
+                                    <span>38%</span>初次访问重庆的蜂蜂会选择这条线路
+                                </a>
+                            </dt>
+                                                        <dd>
+                                                                                                        <a class="cityline" data-t="路线详情" href="/mdd/cityroute/10208_265.html" target="_blank" style="color: #333;text-decoration: none">
+                                        D1
+                                                                                    <span>解放碑</span>
+                                                                                    <span class="arrow">→</span><span>洪崖洞</span>
+                                                                                    <span class="arrow">→</span><span>千厮门嘉陵江大桥</span>
+                                                                                    <span class="arrow">→</span><span>八一路好吃街</span>
+                                                                            </a>
+                                                                                                        <a class="cityline" data-t="路线详情" href="/mdd/cityroute/10208_265.html" target="_blank" style="color: #333;text-decoration: none">
+                                        D2
+                                                                                    <span>磁器口古镇</span>
+                                                                                    <span class="arrow">→</span><span>白公馆</span>
+                                                                                    <span class="arrow">→</span><span>渣滓洞</span>
+                                                                                    <span class="arrow">→</span><span>长江索道</span>
+                                                                                    <span class="arrow">→</span><span>南山一棵树观景园</span>
+                                                                            </a>
+                                                                                                    <a data-t="查看路线" class="btn-view" href="/mdd/cityroute/10208_265.html" target="_blank">查看&gt;</a>
+                            </dd>
+                        </dl>
+                    </div>
+                                                                                <div class="line-cards line-cards-right">
+                        <h3><a data-t="路线标题" href="/mdd/cityroute/10208_275.html" target="_blank"><span class="num">2</span>重庆5日线路</a></h3>
+                        <div class="map">
+                            <a data-t="路线地图" class="mapBox amap-container" data-lineid="275" data-showfrom="3" href="/mdd/cityroute/10208_275.html" target="_blank" style="display: block; transform: none; height: 180px; width: 488px; position: relative; background: rgb(252, 249, 242);" id="_j_map_container_58C56929">
+                                <img src="http://p1-q.mafengwo.net/s10/M00/4F/3E/wKgBZ1lsKJSAcX6_AACqHLvzc7U466.png?imageMogr2%2Fthumbnail%2F%21488x180r%2Fgravity%2FCenter%2Fcrop%2F%21488x180%2Fquality%2F100" />
+                            <object style="display: block; position: absolute; top: 0; left: 0; height: 100%; width: 100%; overflow: hidden; pointer-events: none; z-index: -1;" type="text/html" data="about:blank"></object><div class="amap-maps"><div class="amap-drags" style=""><div class="amap-layers" style="transform: translateZ(0px);"><div class="amap-layer" style="position: absolute; z-index: 0; top: 90px; left: 244px;"><img src="http://wprd01.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=3275&amp;y=1697&amp;z=12&amp;scl=2&amp;ltype=3" style="position: absolute; top: -51px; left: 90px; width: 256px; height: 256px; z-index: 12;" /><img src="http://wprd04.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=3275&amp;y=1696&amp;z=12&amp;scl=2&amp;ltype=3" style="position: absolute; top: -307px; left: 90px; width: 256px; height: 256px; z-index: 12;" /><img src="http://wprd04.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=3274&amp;y=1697&amp;z=12&amp;scl=2&amp;ltype=3" style="position: absolute; top: -51px; left: -166px; width: 256px; height: 256px; z-index: 12;" /><img src="http://wprd03.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=3274&amp;y=1696&amp;z=12&amp;scl=2&amp;ltype=3" style="position: absolute; top: -307px; left: -166px; width: 256px; height: 256px; z-index: 12;" /><img src="http://wprd03.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=3273&amp;y=1697&amp;z=12&amp;scl=2&amp;ltype=3" style="position: absolute; top: -51px; left: -422px; width: 256px; height: 256px; z-index: 12;" /><img src="http://wprd02.is.autonavi.com/appmaptile?lang=zh_cn&amp;size=1&amp;style=7&amp;x=3273&amp;y=1696&amp;z=12&amp;scl=2&amp;ltype=3" style="position: absolute; top: -307px; left: -422px; width: 256px; height: 256px; z-index: 12;" /></div><div class="amap-markers" style="position: absolute; z-index: 120; top: 90px; left: 244px;"><div class="amap-marker" style="top: 25px; left: -50px; z-index: 100; transform: rotate(0deg); transform-origin: 6px 6px; display: block;"><div class="amap-icon" style="position: absolute; width: 12px; height: 12px; opacity: 1;"><img src="http://css.mafengwo.net/images/hotel/hotel-maps-icon6.png" style="top: -314px; left: -1px;" /></div></div><div class="amap-marker" style="top: 39px; left: -24px; z-index: 100; transform: rotate(0deg); transform-origin: 6px 6px; display: block;"><div class="amap-icon" style="position: absolute; width: 12px; height: 12px; opacity: 1;"><img src="http://css.mafengwo.net/images/hotel/hotel-maps-icon6.png" style="top: -314px; left: -1px;" /></div></div><div class="amap-marker" style="top: -51px; left: 38px; z-index: 100; transform: rotate(0deg); transform-origin: 6px 6px; display: block;"><div class="amap-icon" style="position: absolute; width: 12px; height: 12px; opacity: 1;"><img src="http://css.mafengwo.net/images/hotel/hotel-maps-icon6.png" style="top: -314px; left: -1px;" /></div></div></div><canvas class="amap-labels" draggable="false" style="position: absolute; z-index: 99; height: 180px; width: 488px; top: 0px; left: 0px;" width="976" height="360"></canvas><canvas class="amap-vectors" width="976" height="360" style="position: absolute; z-index: 110; transform-origin: 488px 180px; transform: scale3d(0.5, 0.5, 1); top: -90px; left: -244px;"></canvas></div><div class="amap-overlays" style=""></div></div></div><div style="display: none;"></div><div class="amap-controls"><div class="amap-scalecontrol" style="left: 2px; bottom: 20px; visibility: visible;"><div class="amap-scale-text" style="width: 68.0923px;">2 公里</div><div class="amap-scale-line"><div class="amap-scale-edgeleft"></div><div class="amap-scale-edgeright" style="left: 61.0923px;"></div><div class="amap-scale-middle" style="width: 60.0923px;"></div></div></div><div class="amap-toolbar amap-touch-toolbar" style="right: 0px; top: 40px; visibility: visible;"><div class="amap-pancontrol" style="display: none;"><div class="amap-pan-left"></div><div class="amap-pan-top"></div><div class="amap-pan-right"></div><div class="amap-pan-bottom"></div></div><div class="amap-geo amap-toolbar-geo" style="display: none;"></div><div class="amap-zoomcontrol"><div class="amap-zoom-touch-plus"><div>+</div></div><div class="amap-zoom-ruler" style="display: none;"><div class="amap-zoom-mask" style="height: 54px;"></div><div class="amap-zoom-cursor" style="top: 54px;"></div><div class="amap-zoom-labels"><div class="amap-zoom-label-street"></div><div class="amap-zoom-label-city"></div><div class="amap-zoom-label-province"></div><div class="amap-zoom-label-country"></div></div></div><div class="amap-zoom-touch-minus"><div>−</div></div></div></div></div><a class="amap-logo" href="http://gaode.com" target="_blank"><img src="http://webapi.amap.com/theme/v1.3/logo@2x.png" /></a><div class="amap-copyright" style="display: none;"><!--v1.3.28--> © 2019 AutoNavi <span class="amap-mcode">- GS(2018)1709号</span></div></a>
+                        </div>
+                        <dl class="info">
+                                                        <dt>
+                                <a data-t="线路百分比" href="/mdd/cityroute/10208_275.html" target="_blank" style="color: #333;text-decoration: none">
+                                    <span>23%</span>初次访问重庆的蜂蜂会选择这条线路
+                                </a>
+                            </dt>
+                                                        <dd>
+                                                                                                        <a class="cityline" data-t="路线详情" href="/mdd/cityroute/10208_275.html" target="_blank" style="color: #333;text-decoration: none">
+                                        D1
+                                                                                    <span>解放碑</span>
+                                                                                    <span class="arrow">→</span><span>洪崖洞</span>
+                                                                                    <span class="arrow">→</span><span>千厮门嘉陵江大桥</span>
+                                                                                    <span class="arrow">→</span><span>八一路好吃街</span>
+                                                                            </a>
+                                                                                                        <a class="cityline" data-t="路线详情" href="/mdd/cityroute/10208_275.html" target="_blank" style="color: #333;text-decoration: none">
+                                        D2
+                                                                                    <span>磁器口古镇</span>
+                                                                                    <span class="arrow">→</span><span>白公馆</span>
+                                                                                    <span class="arrow">→</span><span>渣滓洞</span>
+                                                                                    <span class="arrow">→</span><span>长江索道</span>
+                                                                                    <span class="arrow">→</span><span>南山一棵树观景园</span>
+                                                                            </a>
+                                                                                                    <a data-t="查看路线" class="btn-view" href="/mdd/cityroute/10208_275.html" target="_blank">查看&gt;</a>
+                            </dd>
+                        </dl>
+                    </div>
+                                        <div class="line-all">
+                <a data-t="查看全部路线" href="/mdd/route/10208.html" target="_blank">
+                    <span class="icon"><i class="i-blue"></i><i class="i-orange"></i></span>查看全部
+                    <span class="num">2条</span> 经典线路&gt;
+                </a>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var mddmap = {
+            'zoom' : 6,
+            'lat'  : 29.562999725342,
+            'lng'  : 106.55200195312
+        };
+    </script>
+    
+
+</div>
+            
+    
+    <div id="pagelet-block-5909dd10808d8b10d5ec79cd735cf115" class="pagelet-block" data-api=":mdd:pagelet:recommendsApi" data-params="{&quot;iMddid&quot;:&quot;10208&quot;}" data-async="1" data-controller=""> 
+    <div class="row row-feature row-bg">
+        <div class="wrapper">
+            
+                        <div class="col col-hotel">
+                <h2 class="hd" style="position: relative;">
+                                            <a data-title="酒店标题" href="/hotel/10208/" target="_blank"><i></i>酒店住宿攻略</a>
+                                    <div class="hotel-hover" style="position: absolute;top:0;right:0;cursor:pointer;"><img src="https://p3-q.mafengwo.net/s12/M00/00/CF/wKgED1wI5WiALDckAAAIwZeVUSE365.png" style="width: 105px;" /></div><div class="hotel-xg" style="position: absolute;top: 30px;left: 40px;z-index: 99;display: none;"><img src="https://n1-q.mafengwo.net/s12/M00/07/66/wKgED1wI6L-AN-0vAACOCj-O70E006.png" style="width: 456px;" /></div></h2>
+                                                                                            <dl>
+                        <dt><a data-title="酒店分区1" class="r-tit" href="/hotel/10208/#area=207" target="_blank"><span class="No">1</span>解放碑/洪崖洞</a></dt>
+                        <dd>
+                            <a data-title="酒店分区1" href="/hotel/10208/#area=207" target="_blank">
+                                                                    <div class="r-photo">
+                                        <img src="http://n3-q.mafengwo.net/s10/M00/76/CB/wKgBZ1mBnBWATY6AAACo3I3of8o987.png" width="296" height="156" />
+                                    </div>
+                                                                <div class="r-text">
+                                    <h4 class="percent"><em>20%</em>的游客选择住在这里</h4>                                    <p>
+                                        有<span class="num">1143</span>家酒店。
+                                        餐饮、住宿、娱乐、购物等功能都很完善，多数旅行者会选择入住这里。 解放碑,大都会广场,步行街...
+                                    </p>
+                                </div>
+                            </a>
+                        </dd>
+                    </dl>
+                                                                            <dl>
+                        <dt><a data-title="酒店分区2" class="r-tit" href="/hotel/10208/#area=206" target="_blank"><span class="No">2</span>人民广场</a></dt>
+                        <dd>
+                            <a data-title="酒店分区2" href="/hotel/10208/#area=206" target="_blank">
+                                                                <div class="r-text">
+                                    <h4 class="percent"><em>15%</em>的游客选择住在这里</h4>                                    <p>
+                                        有<span class="num">201</span>家酒店。
+                                        附近有三峡博物馆、重庆市博物馆。 本区交通方便，地铁1号、2号、3号皆通过此区。 重庆火车站和...
+                                    </p>
+                                </div>
+                            </a>
+                        </dd>
+                    </dl>
+                                                <div class="ft">
+                    <a data-title="查看全部酒店" class="a-link" href="/hotel/10208/" target="_blank"><i class="icon-link"></i>8686家酒店</a>                </div>
+            </div>
+                        
+
+            <div class="col col-scenic">
+                <h2 class="hd" style="position: relative;"><a data-title="景点标题" href="/jd/10208/gonglve.html" target="_blank"><i></i>必游景点排行</a><div class="scenic-hover" style="position: absolute;top:0;right:0;cursor:pointer;"><img src="https://n2-q.mafengwo.net/s12/M00/03/2C/wKgED1wI5paANZviAAAI-q86IOM699.png" style="width: 105px;" /></div><div class="scenic-xg" style="position: absolute;top: 30px;left: 40px;z-index: 99;display: none;"><img src="https://n1-q.mafengwo.net/s12/M00/07/66/wKgED1wI6L-AN-0vAACOCj-O70E006.png" style="width: 456px;" /></div></h2>
+                                                                                                                                <dl>
+                            <dt>
+                                                                    <a data-title="景点1点评" class="r-num" href="/poi/6653.html#reviews" target="_blank">6547个点评</a>
+                                                                <a data-title="景点1" class="r-tit" href="/poi/6653.html" target="_blank"><span class="No">1</span>洪崖洞</a>
+                            </dt>
+                            <dd>
+                                <a data-title="景点1" href="/poi/6653.html" target="_blank">
+                                                                            <div class="r-photo">
+                                            <img src="http://p2-q.mafengwo.net/s8/M00/AB/51/wKgBpVWShIyAZLSuABHhv3DxJlE21.jpeg?imageMogr2%2Fthumbnail%2F%21296x156r%2Fgravity%2FCenter%2Fcrop%2F%21296x156%2Fquality%2F100" width="296" height="156" />
+                                        </div>
+                                                                                                                <div class="r-text">
+                                            <span class="user" title="撒丿哥" rel="nofollow">
+                                                <img src="http://b1-q.mafengwo.net/s11/M00/BE/BB/wKgBEFrTD-WAZiG5AADit5X-SrQ21.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" />撒丿哥
+                                            </span>
+                                             “可以说是重庆网红景点的榜首打卡胜地，是到了重庆必去的点之一，我从朝天门花了10块钱出租车...”
+                                        </div>
+                                                                    </a>
+                            </dd>
+                        </dl>
+                                                                                            <dl>
+                            <dt>
+                                                                    <a data-title="景点2点评" class="r-num" href="/poi/23951.html#reviews" target="_blank">6581个点评</a>
+                                                                <a data-title="景点2" class="r-tit" href="/poi/23951.html" target="_blank"><span class="No">2</span>磁器口古镇</a>
+                            </dt>
+                            <dd>
+                                <a data-title="景点2" href="/poi/23951.html" target="_blank">
+                                                                                                                <div class="r-text">
+                                            <span class="user" title="小喵" rel="nofollow">
+                                                <img src="http://p3-q.mafengwo.net/s10/M00/0B/C9/wKgBZ1uG19WAc7ECAAD_7vUxXGM30.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" />小喵
+                                            </span>
+                                             “一进磁器口就看到了借着免费看川剧的名头，收30元一位茶位费的茶馆~ 一般都要等人差不多坐满...”
+                                        </div>
+                                                                    </a>
+                            </dd>
+                        </dl>
+                                        <div class="ft">
+                        <a data-title="查看全部景点" class="a-link" href="/jd/10208/gonglve.html"><i class="icon-link"></i>1687个景点</a>                    </div>
+                            </div>
+
+            
+            <div class="col col-cate">
+                <h2 class="hd" style="position: relative;">
+                                            <a data-title="餐饮标题" href="/cy/10208/gonglve.html" target="_blank"><i></i>必吃美食排行</a>
+                                    <div class="cate-hover" style="position: absolute;top:0;right:0;cursor:pointer;"><img src="https://b4-q.mafengwo.net/s12/M00/04/1F/wKgED1wI5xKAdRTWAAAJgx2voSo398.png" style="width: 105px;" /></div><div class="cate-xg" style="position: absolute;top: 30px;right:0;z-index: 99;display: none;"><img src="https://n1-q.mafengwo.net/s12/M00/07/66/wKgED1wI6L-AN-0vAACOCj-O70E006.png" style="width: 456px;" /></div></h2>
+                                                                                                                                                                    <dl>
+                                <dt>
+                                    <a data-title="餐饮1" class="r-tit" href="/cy/10208/38166.html"><span class="No">1</span>火锅</a>
+                                </dt>
+                                <dd>
+                                    <a data-title="餐饮1" href="/cy/10208/38166.html">
+                                                                                    <div class="r-photo">
+                                                <img src="http://n4-q.mafengwo.net/s9/M00/C5/5C/wKgBs1Zb7rOAOjqBAANn04xPWbg38.jpeg?imageMogr2%2Fthumbnail%2F%21296x156r%2Fgravity%2FCenter%2Fcrop%2F%21296x156%2Fquality%2F100" width="296" height="156" />
+                                            </div>
+                                                                                <div class="r-text">
+                                            正宗的重庆火锅是“九宫格”（锅里有9个格子），主要特色是辣椒、花椒和老牛油，基本全是麻辣的。不只是冬天，就算在夏天吃火锅吃到流汗...
+                                        </div>
+                                    </a>
+                                </dd>
+                            </dl>
+                                                                                                            <dl>
+                                <dt>
+                                    <a data-title="餐饮2" class="r-tit" href="/cy/10208/1287.html"><span class="No">2</span>酸辣粉</a>
+                                </dt>
+                                <dd>
+                                    <a data-title="餐饮2" href="/cy/10208/1287.html">
+                                                                                <div class="r-text">
+                                            酸辣粉，光是打出这三个字都会流口水！酸酸辣辣吃起来超开胃，夏天的时候也很多人喜欢吃，吃一碗跟洗了个脸似的。好吃不贵，就5-6元/碗...
+                                        </div>
+                                    </a>
+                                </dd>
+                            </dl>
+                                                                <div class="ft">
+                        <a data-title="查看全部餐饮" class="a-link" href="/cy/10208/gonglve.html"><i class="icon-link"></i>159628个餐厅</a>                    </div>
+                            </div>
+        </div>
+    </div>
+
+
+</div>
+
+    
+    
+    
+    <div id="pagelet-block-5265e08ffb91225d898c24de6d935861" class="pagelet-block" data-api=":mdd:pagelet:salesGonglveApi" data-params="{&quot;iMddid&quot;:&quot;10208&quot;}" data-async="1" data-controller="">    <div class="row row-local" data-cs-t="目的地详情页自由行攻略">
+        <div class="wrapper" data-cs-p="">
+            <h2 class="r-title">自由行攻略</h2>
+            <div class="local-pro">
+                <ul class="clearfix">
+                                            <li>
+                            <a class="img" href="http://www.mafengwo.cn/gonglve/ziyouxing/90442.html" target="_blank">
+                                <img src="http://p1-q.mafengwo.net/s11/M00/08/B9/wKgBEFr0IVGAX9t1AApTuPDE5i899.jpeg?imageMogr2%2Fthumbnail%2F%21320x170r%2Fgravity%2FCenter%2Fcrop%2F%21320x170%2Fquality%2F100" width="320" height="170" />
+                                                                    <span class="mark">1181人体验过</span>
+                                                            </a>
+                            <a class="title" href="http://www.mafengwo.cn/gonglve/ziyouxing/90442.html" target="_blank">重庆48h｜网红、艺术、市井全体验，山城这样玩才地道！</a>
+                                                                                            <p>Day 1 网红地深度体验不打卡</p>
+                                                                                            <p>磁器口——寻找景点里的静谧</p>
+                                                                                        <div class="more"><a class="a-link" href="http://www.mafengwo.cn/gonglve/ziyouxing/90442.html" target="_blank"><i class="icon-link"></i>查看详情</a></div>
+                        </li>
+                                            <li>
+                            <a class="img" href="http://www.mafengwo.cn/gonglve/ziyouxing/93986.html" target="_blank">
+                                <img src="http://b3-q.mafengwo.net/s10/M00/6B/35/wKgBZ1nldy2AIqSqAAVeDdDaU8c87.jpeg?imageMogr2%2Fthumbnail%2F%21320x170r%2Fgravity%2FCenter%2Fcrop%2F%21320x170%2Fquality%2F100" width="320" height="170" />
+                                                            </a>
+                            <a class="title" href="http://www.mafengwo.cn/gonglve/ziyouxing/93986.html" target="_blank">重庆7处必打卡景点</a>
+                                                                                            <p>洪崖洞</p>
+                                                                                            <p>南山一棵树</p>
+                                                                                        <div class="more"><a class="a-link" href="http://www.mafengwo.cn/gonglve/ziyouxing/93986.html" target="_blank"><i class="icon-link"></i>查看详情</a></div>
+                        </li>
+                                            <li>
+                            <a class="img" href="http://www.mafengwo.cn/gonglve/ziyouxing/168805.html" target="_blank">
+                                <img src="http://b1-q.mafengwo.net/s12/M00/DA/11/wKgED1u6tBOAW2ujAAEuEvIiV2012.jpeg?imageMogr2%2Fthumbnail%2F%21320x170r%2Fgravity%2FCenter%2Fcrop%2F%21320x170%2Fquality%2F100" width="320" height="170" />
+                                                            </a>
+                            <a class="title" href="http://www.mafengwo.cn/gonglve/ziyouxing/168805.html" target="_blank">一份超全的重庆旅游攻略，去重庆有它就够了！</a>
+                                                                                            <p>感受重庆魅力</p>
+                                                                                            <p>住哪儿</p>
+                                                                                        <div class="more"><a class="a-link" href="http://www.mafengwo.cn/gonglve/ziyouxing/168805.html" target="_blank"><i class="icon-link"></i>查看详情</a></div>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="r-more"><a href="/gonglve/ziyouxing/mdd_10208/" target="_blank">查看全部</a></div>
+                    </div>
+    </div>
+    
+</div>
+
+    
+    <div id="pagelet-block-826818aec58ebc9383f450ecde9309e6" class="pagelet-block" data-api=":mdd:pagelet:hotelTaglistApi" data-params="{&quot;iMddid&quot;:&quot;10208&quot;}" data-async="1" data-controller="/js/mdd/ControllerHotelTag">    
+    <div class="row row-local row-hotel row-bg" data-cs-p="酒店精选">
+        <div class="wrapper">
+            <h2 class="r-title">
+                酒店精选
+                <span>来的游客 大多会关注：</span>
+                                <a data-change="btn" class="change" href="javascript:void(0);" data-mes-g="1-0-1" data-mes-t="换一换" data-mddid="10208">
+                    <i></i>换一换
+                </a>
+                            </h2>
+            <div class="local-pro">
+                <ul class="clearfix">
+                                            <li data-id="34790">
+                            <a href="/hotel/feature/10208/34790/" target="_blank" title="山城网红酒店">
+                                <img src="http://p4-q.mafengwo.net/s12/M00/9A/61/wKgED1uPrNqAecV4AAF7X7pljTQ20.jpeg?imageMogr2%2Fthumbnail%2F%21310x310r%2Fgravity%2FCenter%2Fcrop%2F%21310x310%2Fquality%2F100" />
+                                <div class="img-bag">
+                                    <h2>山城网红酒店</h2>
+                                    <p>以下酒店包罗了全重庆极具特色又类型不一的网红酒店，有些可能是你早有耳闻的哦。</p>
+                                </div>
+                            </a>
+                        </li>
+                                            <li data-id="25769">
+                            <a href="/hotel/feature/10208/25769/" target="_blank" title="解放碑美食购物">
+                                <img src="http://b3-q.mafengwo.net/s12/M00/5B/6C/wKgED1uPho6ADN8VAAFSYHFzcXE94.jpeg?imageMogr2%2Fthumbnail%2F%21310x310r%2Fgravity%2FCenter%2Fcrop%2F%21310x310%2Fquality%2F100" />
+                                <div class="img-bag">
+                                    <h2>解放碑美食购物</h2>
+                                    <p>解放碑其周边是重庆美食购物非常集中的地区，这里的酒店选择也非常多。休息好后，酒店楼下就可以品...</p>
+                                </div>
+                            </a>
+                        </li>
+                                            <li data-id="35412">
+                            <a href="/hotel/feature/10208/35412/" target="_blank" title="吃重庆火锅">
+                                <img src="http://b2-q.mafengwo.net/s13/M00/C6/EA/wKgEaVx8wf2AP1g5AAHea9-hmcM04.jpeg?imageMogr2%2Fthumbnail%2F%21310x310r%2Fgravity%2FCenter%2Fcrop%2F%21310x310%2Fquality%2F100" />
+                                <div class="img-bag">
+                                    <h2>吃重庆火锅</h2>
+                                    <p>重庆以火锅名闻天下，麻辣的香味萦绕整个重庆，“引无数食客竞折腰”。住在地道火锅店旁边，巴适。</p>
+                                </div>
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+            <div class="r-more"><a href="/hotel/10208/" target="_blank">查看该地区全部酒店</a></div>
+        </div>
+    </div>
+</div>
+
+    
+    <div id="pagelet-block-901f397dbc55c007892db7a7f43a0728" class="pagelet-block" data-api=":mdd:pagelet:recommendSalesApi" data-params="{&quot;iMddid&quot;:&quot;10208&quot;}" data-async="1" data-controller=""><div class="row row-sales">
+    <div class="wrapper">
+        <div class="mod-hd">
+            <h2>旅行商城</h2>
+            <ul class="tab hotSaleNav">
+                                <li><a class="on" href="javascript:void(0);">景点门票</a></li>
+                                <li><a href="javascript:void(0);">一日游/多日游</a></li>
+                                <li><a href="javascript:void(0);">酒店套餐</a></li>
+                                <li><a href="javascript:void(0);">交通用车</a></li>
+                                <li><a href="javascript:void(0);">当地玩乐</a></li>
+                            </ul>
+        </div>
+        <div class="bd hotSales">
+                            <section class="" style="width: 100%;overflow: hidden">
+                    <ul class="sales-list clearfix">
+                                                <li class="item">
+                            <a href="/sales/371400.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://p3-q.mafengwo.net/s9/M00/99/DB/wKgBs1cDNUyAWr9UAAUVLZ8G4kc24.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">景区/场馆</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>赠送语音讲解 重庆武隆天生三桥/龙水峡地缝门票 含转车费/电梯费</h3>
+                                    <span class="sell">已售 146</span>
+                                    <span class="price"><b>￥121</b>起</span>
+                                    <span class="price-original">¥250</span>                                </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2730791.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://b1-q.mafengwo.net/s12/M00/23/2D/wKgED1uhx5eAMAlyAAUCecboqIA54.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">景区/场馆</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>长江索道往返票（索道售票窗口取票+电子票+未取票可退）</h3>
+                                    <span class="sell">已售 79</span>
+                                    <span class="price"><b>￥26.8</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2234928.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://p2-q.mafengwo.net/s10/M00/BF/13/wKgBZ1lkgiyAVZaeAAF0SIGd-kA65.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">景区/场馆</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>重庆环球金融中心WFC会仙楼观景台门票（当日可用+销量领先+方便快捷+服务到位）</h3>
+                                    <span class="sell">已售 116</span>
+                                    <span class="price"><b>￥70</b>起</span>
+                                    <span class="price-original">¥158</span>                                </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2587787.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://n3-q.mafengwo.net/s13/M00/01/04/wKgEaVyGARKAQn9jAANTYjYY81k36.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">景区/场馆</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>经典必游 重庆印象武隆演出晚会普票区门票 天生三桥门票/龙水峡地缝门票可选</h3>
+                                    <span class="sell">已售 16</span>
+                                    <span class="price"><b>￥121</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                            </ul>
+                    <div class="getmore">
+                        <a href="/localdeals/0-0-10208-11-0-0-0-0.html" target="_blank">重庆还有301个景点门票产品&gt;&gt;</a>
+                    </div>
+                </section>
+                            <section class="hide" style="width: 100%;overflow: hidden">
+                    <ul class="sales-list clearfix">
+                                                <li class="item">
+                            <a href="/sales/2538463.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://p2-q.mafengwo.net/s12/M00/1D/34/wKgED1uZ0MOAVLKhABe0JNBvxXw02.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">一日游</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>重庆万盛奥陶纪主题公园纯玩一日游（25人vip小团+可选KFC早餐+多地免费接驳+含自助午餐+赠10万意外险+悬崖秋千/玻璃吊桥等项目一票通玩）</h3>
+                                    <span class="sell">已售 442</span>
+                                    <span class="price"><b>￥298</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2971608.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://n1-q.mafengwo.net/s13/M00/D6/91/wKgEaVyLDZGAEAjJAALnAZx3Vcw10.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">一日游</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>重庆万盛梦幻奥陶纪纯玩一日游（25人小团/「2+1」头等舱/游玩8小时/多区接你/一票通玩/含自助中餐/赠旅游意外保险/赠矿泉水/提供自拍杆）</h3>
+                                    <span class="sell">已售 364</span>
+                                    <span class="price"><b>￥298</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2169251.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://b2-q.mafengwo.net/s11/M00/13/1A/wKgBEFtpVUCANIv6ABX2aDK-i6o979.gif?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">一日游</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>纯玩高规格 武隆天生三桥+龙水峡地缝一日游（上千评价/近满分高评产品+专线导游+不进购物点+主城商圈范围可接 商务舱/航空舱任你选）</h3>
+                                    <span class="sell">已售 605</span>
+                                    <span class="price"><b>￥358</b>起</span>
+                                    <span class="price-original">¥498</span>                                </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2622500.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://n2-q.mafengwo.net/s12/M00/87/7A/wKgED1v_dUSAUsZwAE_Ayf47Wxk673.gif?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">一日游</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>钻石vip纯玩·重庆奥陶纪公园一日游（25人团头等舱+免费接驳+7/8点两班+精美自助午餐+畅游7小时+0自费0购物/提供自拍杆+矿泉水+旅游意外险/万盛梦幻奥陶纪主题公园）</h3>
+                                    <span class="sell">已售 934</span>
+                                    <span class="price"><b>￥298</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                            </ul>
+                    <div class="getmore">
+                        <a href="/localdeals/0-0-10208-12-0-0-0-0.html" target="_blank">重庆还有424个一日游/多日游产品&gt;&gt;</a>
+                    </div>
+                </section>
+                            <section class="hide" style="width: 100%;overflow: hidden">
+                    <ul class="sales-list clearfix">
+                                                <li class="item">
+                            <a href="/sales/2321724.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://p3-q.mafengwo.net/s10/M00/4B/D1/wKgBZ1oC1taAbw_oAANkjockvOs46.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">酒店套餐</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>重庆乐和乐都两江酒店/动物主题酒店可选1晚（双人乐和乐都主题公园两日票+欢乐世界+野生动物园门票+双人早餐）</h3>
+                                    <span class="sell">已售 11</span>
+                                    <span class="price"><b>￥460</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/5178077.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://b1-q.mafengwo.net/s13/M00/38/1D/wKgEaVyJ8_-ANM41AAENAjuzZbo77.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">酒店套餐</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>重庆长寿碧桂花凤凰酒店2天1晚套餐（春游季游湖赏花+淘气堡乐园+亲子美食套餐）</h3>
+                                    <span class="sell">新品上架</span>
+                                    <span class="price"><b>￥666</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2826854.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://b3-q.mafengwo.net/s12/M00/47/1B/wKgED1vkCImAJZ6MAANl1CWoHiA24.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">酒店套餐</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>双园嗨翻天 重庆乐和乐都动物主题酒店2天1晚套票（含双人早餐+乐和乐都主题公园1/2日游套票）</h3>
+                                    <span class="sell">已售 4</span>
+                                    <span class="price"><b>￥458</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2551209.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://b2-q.mafengwo.net/s12/M00/92/7C/wKgED1vo5JGAHiDaAADysgO21No29.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">酒店套餐</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>【重庆碧桂园】3天2晚淘气堡乐园美食套餐|包含三餐+送亲子门票（酒店直营）</h3>
+                                    <span class="sell">新品上架</span>
+                                    <span class="price"><b>￥899</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                            </ul>
+                    <div class="getmore">
+                        <a href="/localdeals/0-0-10208-2-0-0-0-0.html" target="_blank">重庆还有63个酒店套餐产品&gt;&gt;</a>
+                    </div>
+                </section>
+                            <section class="hide" style="width: 100%;overflow: hidden">
+                    <ul class="sales-list clearfix">
+                                                <li class="item">
+                            <a href="/sales/2511073.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://p4-q.mafengwo.net/s11/M00/FF/51/wKgBEFr6lk-AKRNYAAMhL5I1BG022.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">接送机/站</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>重庆接机送机江北机场接送机（拼车/专车可选+24小时接送机服务+1人可拼车）</h3>
+                                    <span class="sell">已售 56</span>
+                                    <span class="price"><b>￥24</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2227582.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://p4-q.mafengwo.net/s11/M00/ED/D4/wKgBEFryte6AczFuACqj64sJ6pQ50.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">包车/拼车</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>便捷直达·重庆至武隆景区直通车（可选单程/往返+可升级VIP头等舱/普通巴士+含早间出发接驳）</h3>
+                                    <span class="sell">已售 139</span>
+                                    <span class="price"><b>￥50</b>起</span>
+                                    <span class="price-original">¥99</span>                                </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2267993.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://n1-q.mafengwo.net/s10/M00/2D/1A/wKgBZ1nZwjiAAosQAAFk9PO6NtM63.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">接送机/站</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>重庆市区至江北机场接送机服务（拼车/专车自由选择24小时服务,无夜间附加费）</h3>
+                                    <span class="sell">已售 37</span>
+                                    <span class="price"><b>￥25</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2916624.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://p4-q.mafengwo.net/s12/M00/24/E7/wKgED1w0CdSAVdvJAAOEmv_uchM791.gif?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">包车/拼车</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>自营车队   重庆全境自由行旅游包车  解放碑/洪崖洞/大足石刻/天坑地缝/磁器口/奥陶纪公园提供定制服务      （小包团定制  司导一体化）</h3>
+                                    <span class="sell">已售 6</span>
+                                    <span class="price"><b>￥500</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                            </ul>
+                    <div class="getmore">
+                        <a href="/localdeals/0-0-10208-23-0-0-0-0.html" target="_blank">重庆还有66个交通用车产品&gt;&gt;</a>
+                    </div>
+                </section>
+                            <section class="hide" style="width: 100%;overflow: hidden">
+                    <ul class="sales-list clearfix">
+                                                <li class="item">
+                            <a href="/sales/2321724.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://p3-q.mafengwo.net/s10/M00/4B/D1/wKgBZ1oC1taAbw_oAANkjockvOs46.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">酒店套餐</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>重庆乐和乐都两江酒店/动物主题酒店可选1晚（双人乐和乐都主题公园两日票+欢乐世界+野生动物园门票+双人早餐）</h3>
+                                    <span class="sell">已售 11</span>
+                                    <span class="price"><b>￥460</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/5178077.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://b1-q.mafengwo.net/s13/M00/38/1D/wKgEaVyJ8_-ANM41AAENAjuzZbo77.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">酒店套餐</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>重庆长寿碧桂花凤凰酒店2天1晚套餐（春游季游湖赏花+淘气堡乐园+亲子美食套餐）</h3>
+                                    <span class="sell">新品上架</span>
+                                    <span class="price"><b>￥666</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2826854.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://b3-q.mafengwo.net/s12/M00/47/1B/wKgED1vkCImAJZ6MAANl1CWoHiA24.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">酒店套餐</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>双园嗨翻天 重庆乐和乐都动物主题酒店2天1晚套票（含双人早餐+乐和乐都主题公园1/2日游套票）</h3>
+                                    <span class="sell">已售 4</span>
+                                    <span class="price"><b>￥458</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                                <li class="item">
+                            <a href="/sales/2551209.html" target="_blank">
+                                <div class="image">
+                                    <img src="http://b2-q.mafengwo.net/s12/M00/92/7C/wKgED1vo5JGAHiDaAADysgO21No29.jpeg?imageMogr2%2Fthumbnail%2F%21238x134r%2Fgravity%2FCenter%2Fcrop%2F%21238x134%2Fquality%2F100" height="134" width="238" />
+                                    <div class="mark-tag">酒店套餐</div>
+                                </div>
+                                <div class="caption">
+                                    <h3>【重庆碧桂园】3天2晚淘气堡乐园美食套餐|包含三餐+送亲子门票（酒店直营）</h3>
+                                    <span class="sell">新品上架</span>
+                                    <span class="price"><b>￥899</b>起</span>
+                                                                    </div>
+                            </a>
+                        </li>
+                                            </ul>
+                    <div class="getmore">
+                        <a href="/localdeals/0-0-10208-10-0-0-0-0.html" target="_blank">重庆还有65个当地玩乐产品&gt;&gt;</a>
+                    </div>
+                </section>
+            
+        </div>
+    </div>
+</div>
+</div>
+
+    
+    <div id="pagelet-block-20ddfd7320c5a5675a601a62820d67d6" class="pagelet-block" data-api=":mdd:pagelet:communityApi" data-params="{&quot;iMddid&quot;:&quot;10208&quot;}" data-async="1" data-controller="">        <div class="row row-ask row-bg">
+        <div class="wrapper">
+            <div class="r-main">
+                <div class="clearfix">
+                    <h2 class="hd" style="float:left">
+                        <a href="/wenda/area-10208.html?sFrom=mdd">重庆问答</a>
+                        <span>所有人帮助所有人</span>
+                    </h2>
+                    <span class="more-answer"><a href="/wenda/area-10208.html?sFrom=mdd" target="_blank">查看所有问答&gt;&gt;</a></span>
+                </div>
+                <div class="bd">
+                                                            <dl>
+                        <dt>
+                            <i class="icon-wen"></i>
+                        <div class="title">
+                            <a class="user" href="/u/800801.html" target="_blank"><img src="http://p1-q.mafengwo.net/s3/M00/00/C1/wKgBjE8FeBCY_BEeAAA6JnOypaE97.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" />安-池墨</a>
+                            <a href="/wenda/detail-6889671.html" target="_blank">一个热情如火，一个温婉如水，来说说重庆和成都到底有什么不一样？</a>
+                        </div>
+                        
+                        
+                        </dt>
+                                                <dd>
+                            <i class="icon-da"></i>
+                            <a class="user" href="/u/17421488.html" target="_blank"><img src="http://p2-q.mafengwo.net/s5/M00/B3/9A/wKgB3FFxXgmAMeuIAAEh9qT_4LU44.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" />Daisy</a>
+                            <span class="best-answer">最佳答案</span>
+                            <p class="content"><a href="/wenda/detail-6889671.html#answer6897062" target="_blank">推荐一些重庆可看的：
+
+“最”文艺：
+四川美术学院（黄桷坪校区）
+
+川美，不能错过的小清新文艺地。至少你应该听过坦克库，微缩版的798，处处都能给你惊喜。毕业季的6月还能看到毕业生的设计作品展。有校园情结的，来这里肯定会喜欢。美院里的看点有三处：
+美术馆、坦克库和涂鸦街。最有名的是学校外面的涂鸦街，一整条街的建筑满墙都是各种涂鸦，涂鸦略显旧了但还是挺壮观的。周围的小吃比较多，梯坎豆花、胡记蹄花汤都在这里，值得一试。另外毕业季的时候，每年大约五月底六月初，川美都有艺术生的毕业展，，喜欢的可以关注一下相关信息，前往参观。
+
+方所书店
+方所不仅仅是一家书店，由“例外”创始人毛继鸿一手打造，更是融合了</a></p>
+                        </dd>
+                                            </dl>
+                                                            <dl>
+                        <dt>
+                            <i class="icon-wen"></i>
+                        <div class="title">
+                            <a class="user" href="/u/35314145.html" target="_blank"><img src="http://b1-q.mafengwo.net/s8/M00/5E/FD/wKgBpVVe09uAE87XAAIeR738Sds25.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" />小杨是阵风</a>
+                            <a href="/wenda/detail-2632929.html" target="_blank">吃重庆火锅，哪家辣得最正宗？</a>
+                        </div>
+                        
+                        
+                        </dt>
+                                                <dd>
+                            <i class="icon-da"></i>
+                            <a class="user" href="/u/45872676.html" target="_blank"><img src="http://n4-q.mafengwo.net/s9/M00/5B/19/wKgBs1cE0kGAJ4t0AABJZ8Q0Y4c642.png?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" />步步指南</a>
+                            <span class="best-answer">最佳答案</span>
+                            <p class="content"><a href="/wenda/detail-2632929.html#answer7936418" target="_blank">推荐一些大多只有本地人才去的老店，好吗？ &lt;b&gt;黄姐火锅&lt;/b&gt; 用“酒香不怕巷子深”来形容黄姐火锅再合适不过，与一般人气极高的火锅店不同，黄姐标志的“破房子”是它坚持自我的最好证明。苍蝇馆子就数旧环境好味道，哪怕黄姐火锅的环境屡屡遭受非议，每天排队的人却络绎不绝。
+慕名而来的食客们在没有空调的炎热夏日也要一尝过瘾，其价值可见一斑。直至今日还是有许多火锅爱好者纷纷赶来，在简陋的小巷里穿梭，只为寻找隐没在繁华都市中的一抹老重庆的风味。
+
+（图片出处：搜狐美食 重庆有什么好吃的火锅）
+地址： 江北区万丰27-12号五里店灯饰城背后的小路里
+人均：55元
+电话： 13098769187
+营业时间：1</a></p>
+                        </dd>
+                                            </dl>
+                                    </div>
+            </div>
+            <div class="side-banner"><a href="/qa/expert.php" target="_blank"><img src="http://images.mafengwo.net/images/mdd/place/ask-guider-recruit.jpg" /></a></div>
+        </div>
+    </div>
+
+
+<div class="row row-gonglve" id="gonglve">
+    <div class="wrapper">
+        <h2 class="r-title">攻略下载</h2>
+                        <div class="gl-slide" style="">
+            <div class="gl-slide-con" style="width: 789px; margin: 0px auto;">
+                <ul class="gl-list">
+                                        <li>
+                        <a class="gl-cover" href="/gonglve/mdd-10208.html" target="_blank">
+                            <img src="http://p3-q.mafengwo.net/s8/M00/F6/01/wKgBpVYkZLCARxCoAAn5H1zLWbs35.jpeg?imageView2%2F2%2Fw%2F156%2Fh%2F220%2Fq%2F90" height="220" width="156" />
+                        </a>
+                        <a class="btn download-pdf" href="/gonglve/mdd-10208.html" target="_blank">下载PDF版本</a>
+                        <span>文件大小 16.97 MB</span>
+                        <a class="btn download-jpg" href="/gonglve/mdd-10208.html" target="_blank">下载JPG版本</a>
+                        <span>文件大小 23.57 MB</span>
+                    </li>
+                                        <li>
+                        <a class="gl-cover" href="/gonglve/mdd-11911.html" target="_blank">
+                            <img src="http://b3-q.mafengwo.net/s8/M00/D8/68/wKgBpVXWyHKAXaHXAApSj78Fm_I92.jpeg?imageView2%2F2%2Fw%2F156%2Fh%2F220%2Fq%2F90" height="220" width="156" />
+                        </a>
+                        <a class="btn download-pdf" href="/gonglve/mdd-11911.html" target="_blank">下载PDF版本</a>
+                        <span>文件大小 5.66 MB</span>
+                        <a class="btn download-jpg" href="/gonglve/mdd-11911.html" target="_blank">下载JPG版本</a>
+                        <span>文件大小 10.05 MB</span>
+                    </li>
+                                        <li>
+                        <a class="gl-cover" href="/gonglve/zt-373.html" target="_blank">
+                            <img src="http://n4-q.mafengwo.net/s4/M00/37/18/wKgBwU_EZh3qDkHTAAZhUx-Q0Os74.jpeg?imageView2%2F2%2Fw%2F156%2Fh%2F220%2Fq%2F90" height="220" width="156" />
+                        </a>
+                        <a class="btn download-pdf" href="/gonglve/zt-373.html" target="_blank">下载PDF版本</a>
+                        <span>文件大小 7.12 MB</span>
+                        <a class="btn download-jpg" href="/gonglve/zt-373.html" target="_blank">下载JPG版本</a>
+                        <span>文件大小 15.70 MB</span>
+                    </li>
+                                        <li style="margin-right: 0">
+                        <a class="gl-cover" href="/gonglve/zt-305.html" target="_blank">
+                            <img src="http://n2-q.mafengwo.net/s5/M00/8D/74/wKgB21BEUeustJ5mAANNLOF2vLQ04.jpeg?imageView2%2F2%2Fw%2F156%2Fh%2F220%2Fq%2F90" height="220" width="156" />
+                        </a>
+                        <a class="btn download-pdf" href="/gonglve/zt-305.html" target="_blank">下载PDF版本</a>
+                        <span>文件大小 2.72 MB</span>
+                        <a class="btn download-jpg" href="/gonglve/zt-305.html" target="_blank">下载JPG版本</a>
+                        <span>文件大小 7.11 MB</span>
+                    </li>
+                                    </ul>
+            </div>
+            <a class="btn-slide btn-slide-left" href="javascript:void(0)" style="display: none;"></a>
+            <a class="btn-slide btn-slide-right" href="javascript:void(0)" style="display: none;"></a>
+        </div>
+            </div>
+</div>
+    
+
+
+<div class="row row-travels row-bg">
+    <div class="wrapper">
+                    <div class="navbar clearfix">
+                <ul class="tn-nav">
+                    <li class="active"><a href="javascript:void(0)" data-type="yj">重庆游记</a></li>
+                    <li><a href="javascript:void(0)" data-type="xc">重庆推荐行程</a></li>
+                </ul>
+            </div>
+                <div class="relcontent yj" style="display: block">
+                            <div class="navbar-sub clearfix">
+                    <div class="tn-dropdown dropdown-type">
+                        <div class="dropdown-trigger"><span>最热游记</span><i class="icon-dropdown"></i></div>
+                        <div class="dropdown-menu">
+                            <ul>
+                                <li data-sort="1" class="on"><a href="/yj/10208/1-0-1.html" target="_blank">最热游记</a></li>
+                                <li data-sort="2"><a href="/yj/10208/2-0-1.html" target="_blank">最新游记</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                                            <div class="tn-dropdown dropdown-1">
+                            <div class="dropdown-trigger"><span data-placeholder="按出发时间">按出发时间</span><i class="icon-dropdown"></i></div>
+                            <div class="dropdown-menu">
+                                <ul>
+                                                                                                                <li class="on">
+                                            <a data-cs-p="type_1" data-cs-l="/yj/10208/s-0-0-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="1" data-name="不限" href="/yj/10208/s-0-0-0-0-1-0.html">不限</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_1" data-cs-l="/yj/10208/s-1-0-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="1" data-name="1-2" href="/yj/10208/s-1-0-0-0-1-0.html">1-2</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_1" data-cs-l="/yj/10208/s-2-0-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="1" data-name="3-4" href="/yj/10208/s-2-0-0-0-1-0.html">3-4</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_1" data-cs-l="/yj/10208/s-3-0-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="1" data-name="5-6" href="/yj/10208/s-3-0-0-0-1-0.html">5-6</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_1" data-cs-l="/yj/10208/s-4-0-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="1" data-name="7-8" href="/yj/10208/s-4-0-0-0-1-0.html">7-8</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_1" data-cs-l="/yj/10208/s-5-0-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="1" data-name="9-10" href="/yj/10208/s-5-0-0-0-1-0.html">9-10</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_1" data-cs-l="/yj/10208/s-6-0-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="1" data-name="11-12" href="/yj/10208/s-6-0-0-0-1-0.html">11-12</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                            <div class="tn-dropdown dropdown-2">
+                            <div class="dropdown-trigger"><span data-placeholder="按人均花费">按人均花费</span><i class="icon-dropdown"></i></div>
+                            <div class="dropdown-menu">
+                                <ul>
+                                                                                                                <li class="on">
+                                            <a data-cs-p="type_2" data-cs-l="/yj/10208/s-0-0-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="2" data-name="不限" href="/yj/10208/s-0-0-0-0-1-0.html">不限</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_2" data-cs-l="/yj/10208/s-0-1-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="2" data-name="1-999" href="/yj/10208/s-0-1-0-0-1-0.html">1-999</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_2" data-cs-l="/yj/10208/s-0-2-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="2" data-name="1K-6K" href="/yj/10208/s-0-2-0-0-1-0.html">1K-6K</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_2" data-cs-l="/yj/10208/s-0-3-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="2" data-name="6K-20K" href="/yj/10208/s-0-3-0-0-1-0.html">6K-20K</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_2" data-cs-l="/yj/10208/s-0-4-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="2" data-name="20K以上" href="/yj/10208/s-0-4-0-0-1-0.html">20K以上</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                            <div class="tn-dropdown dropdown-3">
+                            <div class="dropdown-trigger"><span data-placeholder="按出行天数">按出行天数</span><i class="icon-dropdown"></i></div>
+                            <div class="dropdown-menu">
+                                <ul>
+                                                                                                                <li class="on">
+                                            <a data-cs-p="type_3" data-cs-l="/yj/10208/s-0-0-0-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="3" data-name="不限" href="/yj/10208/s-0-0-0-0-1-0.html">不限</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_3" data-cs-l="/yj/10208/s-0-0-1-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="3" data-name="3天以下" href="/yj/10208/s-0-0-1-0-1-0.html">3天以下</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_3" data-cs-l="/yj/10208/s-0-0-2-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="3" data-name="4-7天" href="/yj/10208/s-0-0-2-0-1-0.html">4-7天</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_3" data-cs-l="/yj/10208/s-0-0-3-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="3" data-name="8-14天" href="/yj/10208/s-0-0-3-0-1-0.html">8-14天</a>
+                                        </li>
+                                                                            <li class="">
+                                            <a data-cs-p="type_3" data-cs-l="/yj/10208/s-0-0-4-0-1-0.html" class="ginfo_filter" data-mddid="10208" data-group="3" data-name="15天以上" href="/yj/10208/s-0-0-4-0-1-0.html">15天以上</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </div>
+                                <div class="_notelist">
+                    <div class="tn-list">
+                            <div class="tn-item clearfix">
+        <div class="tn-image">
+            <a href="/i/11993602.html" target="_blank">
+                <img class="lazy" data-original="http://n4-q.mafengwo.net/s13/M00/2D/B8/wKgEaVx7RTCAJ6PzAAs7XcG_I9Q83.jpeg" width="220" height="150" alt="·重庆避坑+纯玩：洞子火锅走一个，徒手铲辣子，莫非这才是重庆正确打开方式？_游记" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                    
+                            </a>
+        </div>
+        <div class="tn-wrapper" data-focus="" data-topsort="1" data-star="0">
+            <dl>
+                <dt class="hasxjicon">
+                                            <a class="bzicon" href="https://imfw.cn/l/22837145" target="_blank" title="宝藏游记"></a>
+                                                            <a href="/i/11993602.html" class="title-link" target="_blank">·重庆避坑+纯玩：洞子火锅走一个，徒手铲辣子，莫非这才是重庆正确打开方式？</a>
+                </dt>
+                <dd><a href="/i/11993602.html" target="_blank">重庆，一个多面的城市。
+如果你喜欢美食，你要去重庆
+如果你喜欢热闹，你要去重庆
+如果你喜欢情怀，你要去重庆
+如果你喜欢文艺，你要去重庆
+如果你喜欢夜生活，你要去重庆
+总之，如果你有假期，你要去重庆。
+
+
+
+
+
+
+
+
+
+
+铛铛铛！抓重点！
+
+一、避雷必看
+二、3-5天推荐行程
+三、...</a></dd>
+            </dl>
+            <div class="tn-extra">
+                <span class="tn-ding">
+                    <a class="btn-ding" href="javascript:" data-japp="articleding" data-iid="11993602" data-vote="503"></a>
+                    <em id="topvote11993602">503</em>
+                </span>
+                
+                <span class="tn-user"><a href="/u/36914879.html" target="_blank" rel="nofollow"><img src="http://b2-q.mafengwo.net/s10/M00/5D/40/wKgBZ1n26RKAF_1yAB2c3D-B9Mg26.jpeg?imageMogr2%2Fthumbnail%2F%2116x16r%2Fgravity%2FCenter%2Fcrop%2F%2116x16%2Fquality%2F90" />全能于小鱼</a></span>
+                <span class="tn-nums"><i></i>9452/76</span>
+            </div>
+        </div>
+    </div>
+                                <div class="tn-item clearfix">
+        <div class="tn-image">
+            <a href="/i/11835714.html" target="_blank">
+                <img class="lazy" data-original="http://b3-q.mafengwo.net/s11/M00/0B/07/wKgBEFxi0z2ALQ_EAAwQTtcg76g20.jpeg?imageMogr2%2Fthumbnail%2F%21250x185r%2Fgravity%2FCenter%2Fcrop%2F%21250x185%2Fquality%2F90" width="220" height="150" alt="·逛吃重庆｜一封超详细的景点＆美食安利信_游记" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                    
+                            </a>
+        </div>
+        <div class="tn-wrapper" data-focus="" data-topsort="1" data-star="0">
+            <dl>
+                <dt class="hasxjicon">
+                                            <a class="bzicon" href="https://imfw.cn/l/22837145" target="_blank" title="宝藏游记"></a>
+                                                                <a class="tn-from-app" href="javascript:void(0);"><i></i>APP<img src="http://images.mafengwo.net/images/mfwapp-notes.png" /></a>
+                                        <a href="/i/11835714.html" class="title-link" target="_blank">·逛吃重庆｜一封超详细的景点＆美食安利信</a>
+                </dt>
+                <dd><a href="/i/11835714.html" target="_blank">重庆你好，世界你好
+以前我眼中的重庆是一个多标签城市，“热”，“火锅”，“小面”，“陈麻花”，“网红打卡地”，“山城”；现在我眼中的重庆是一个单标签城市，“吃喝玩乐，热情好客”。
+
+为了方便大家阅读，方便大家更快的看到感兴趣的内容，这里介绍一下游记每一部分的主...</a></dd>
+            </dl>
+            <div class="tn-extra">
+                <span class="tn-ding">
+                    <a class="btn-ding" href="javascript:" data-japp="articleding" data-iid="11835714" data-vote="1069"></a>
+                    <em id="topvote11835714">1069</em>
+                </span>
+                
+                <span class="tn-user"><a href="/u/78043500.html" target="_blank" rel="nofollow"><img src="http://p4-q.mafengwo.net/s11/M00/0D/54/wKgBEFqiNj-APi3KAAAIHLZv0so22.jpeg?imageMogr2%2Fthumbnail%2F%2116x16r%2Fgravity%2FCenter%2Fcrop%2F%2116x16%2Fquality%2F90" />暖栀</a></span>
+                <span class="tn-nums"><i></i>21338/29</span>
+            </div>
+        </div>
+    </div>
+                                <div class="tn-item clearfix">
+        <div class="tn-image">
+            <a href="/i/12131718.html" target="_blank">
+                <img class="lazy" data-original="http://n3-q.mafengwo.net/s13/M00/18/49/wKgEaVyS_kGAAlYXABR3Xm29pvo45.jpeg?imageMogr2%2Fthumbnail%2F%21250x185r%2Fgravity%2FCenter%2Fcrop%2F%21250x185%2Fquality%2F90" width="220" height="150" alt="来了就想走 -重庆_游记" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                            </a>
+        </div>
+        <div class="tn-wrapper" data-focus="" data-topsort="" data-star="0">
+            <dl>
+                <dt>
+                                                                <a class="tn-from-app" href="javascript:void(0);"><i></i>APP<img src="http://images.mafengwo.net/images/mfwapp-notes.png" /></a>
+                                        <a href="/i/12131718.html" class="title-link" target="_blank">来了就想走 -重庆</a>
+                </dt>
+                <dd><a href="/i/12131718.html" target="_blank"></a></dd>
+            </dl>
+            <div class="tn-extra">
+                <span class="tn-ding">
+                    <a class="btn-ding" href="javascript:" data-japp="articleding" data-iid="12131718" data-vote="5"></a>
+                    <em id="topvote12131718">5</em>
+                </span>
+                
+                <span class="tn-user"><a href="/u/56686067.html" target="_blank" rel="nofollow"><img src="http://b1-q.mafengwo.net/s6/M00/FA/26/wKgB4lNPz1OAbe55AAAFVkdJl6846.jpeg?imageMogr2%2Fthumbnail%2F%2116x16r%2Fgravity%2FCenter%2Fcrop%2F%2116x16%2Fquality%2F90" />.淑女難裝゛</a></span>
+                <span class="tn-nums"><i></i>24/1</span>
+            </div>
+        </div>
+    </div>
+                                <div class="tn-item clearfix">
+        <div class="tn-image">
+            <a href="/i/12129422.html" target="_blank">
+                <img class="lazy" data-original="http://b1-q.mafengwo.net/s13/M00/F1/9A/wKgEaVyS3rSAaYsrAAbKqdRS_Ms09.jpeg" width="220" height="150" alt="南山去打望_游记" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                            </a>
+        </div>
+        <div class="tn-wrapper" data-focus="" data-topsort="" data-star="0">
+            <dl>
+                <dt>
+                                                            <a href="/i/12129422.html" class="title-link" target="_blank">南山去打望</a>
+                </dt>
+                <dd><a href="/i/12129422.html" target="_blank">重庆的南山由汪山、黄山、袁山、蒋山、岱山、老君山、文峰山、涂山等数十座山峰组成，被称为重庆的&amp;quot;肺叶&amp;quot;，是重庆主城的中老年人休闲的绝好去处。
+2019年3月3日，在渝待租（等待别人来租我的房子）期间，上午贴完出租广告，感觉很无聊，乘车前往南坪公交枢纽...</a></dd>
+            </dl>
+            <div class="tn-extra">
+                <span class="tn-ding">
+                    <a class="btn-ding" href="javascript:" data-japp="articleding" data-iid="12129422" data-vote="6"></a>
+                    <em id="topvote12129422">6</em>
+                </span>
+                
+                <span class="tn-user"><a href="/u/70745569.html" target="_blank" rel="nofollow"><img src="http://p4-q.mafengwo.net/s12/M00/2E/4E/wKgED1uomuSAK902AAQ7cfaVTmQ14.jpeg?imageMogr2%2Fthumbnail%2F%2116x16r%2Fgravity%2FCenter%2Fcrop%2F%2116x16%2Fquality%2F90" />只求平安</a></span>
+                <span class="tn-nums"><i></i>27/0</span>
+            </div>
+        </div>
+    </div>
+                                
+                        <div class="tn-item tn-item-sales clearfix">
+            <div class="tn-image">
+                <a href="/gonglve/ziyouxing/1457.html?cid=1010606" target="_blank">
+                    <img width="220" height="150" src="http://b3-q.mafengwo.net/s9/M00/16/17/wKgBs1hTtIiAHgReAACXJ04Tins12.jpeg?imageMogr2%2Fthumbnail%2F%21220x150r%2Fgravity%2FCenter%2Fcrop%2F%21220x150%2Fquality%2F100" />
+                    <span class="icon-salesTag">攻略</span>
+                </a>
+            </div>
+            <div class="tn-wrapper">
+                <dl>
+                    <dt>
+                                                <a href="/gonglve/ziyouxing/1457.html?cid=1010606" target="_blank">山城记忆，最精简的重庆旅行攻略</a>
+                    </dt>
+                    <dd><a href="/gonglve/ziyouxing/1457.html?cid=1010606" target="_blank">重庆四面环山，依山而建，长江和嘉陵江在此交汇，别名江城，又称山城。重庆这座城有太多的标签，很难用一个词概括对它的感受，依山建筑是“山城”，云轻雾重是“雾都”，夏长酷热是“火炉”，跨越山水是“桥都”。重庆是一座魔幻3D城市，刀郎唱的那句“停靠在八楼的二路汽车”拿来形容这里再合适不过了。重庆是一座让人捉摸不透的城市，也正是这迷一样的城市，吸引着更多的人来一探究竟。</a></dd>
+                </dl>
+                
+                
+                
+                
+            </div>
+        </div>
+                                
+                    <div class="tn-item clearfix">
+        <div class="tn-image">
+            <a href="/i/12124166.html" target="_blank">
+                <img class="lazy" data-original="http://n3-q.mafengwo.net/s13/M00/1C/F3/wKgEaVyTAPmAJ9HTAAQIVDpBaq822.jpeg?imageMogr2%2Fthumbnail%2F%21250x185r%2Fgravity%2FCenter%2Fcrop%2F%21250x185%2Fquality%2F90" width="220" height="150" alt="我❤️大重庆_游记" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                            </a>
+        </div>
+        <div class="tn-wrapper" data-focus="" data-topsort="" data-star="0">
+            <dl>
+                <dt>
+                                                                <a class="tn-from-app" href="javascript:void(0);"><i></i>APP<img src="http://images.mafengwo.net/images/mfwapp-notes.png" /></a>
+                                        <a href="/i/12124166.html" class="title-link" target="_blank">我❤️大重庆</a>
+                </dt>
+                <dd><a href="/i/12124166.html" target="_blank">这是一个吃喝玩乐样样齐，幸福感爆棚的城市。本篇游记将不定期更新重庆美食、网红景点、地道小吃、小众秘镜等，带你深度了解重庆。
+关于重庆
+网红景点
+关于美食
+1⃣️火锅：</a></dd>
+            </dl>
+            <div class="tn-extra">
+                <span class="tn-ding">
+                    <a class="btn-ding" href="javascript:" data-japp="articleding" data-iid="12124166" data-vote="4"></a>
+                    <em id="topvote12124166">4</em>
+                </span>
+                
+                <span class="tn-user"><a href="/u/59751854.html" target="_blank" rel="nofollow"><img src="http://b4-q.mafengwo.net/s13/M00/42/92/wKgEaVyR4zyACTo9AACM5docQhc99.jpeg?imageMogr2%2Fthumbnail%2F%2116x16r%2Fgravity%2FCenter%2Fcrop%2F%2116x16%2Fquality%2F90" />🐰小白兔🐰</a></span>
+                <span class="tn-nums"><i></i>21/0</span>
+            </div>
+        </div>
+    </div>
+                                <div class="tn-item clearfix">
+        <div class="tn-image">
+            <a href="/i/11929426.html" target="_blank">
+                <img class="lazy" data-original="http://p1-q.mafengwo.net/s13/M00/06/4F/wKgEaVxkfFOAHGkCAAddHSD5xDU52.jpeg?imageMogr2%2Fthumbnail%2F%21250x185r%2Fgravity%2FCenter%2Fcrop%2F%21250x185%2Fquality%2F90" width="220" height="150" alt="·和不吃辣的母亲大人一起，逛重庆和成都_游记" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                            </a>
+        </div>
+        <div class="tn-wrapper" data-focus="" data-topsort="" data-star="0">
+            <dl>
+                <dt class="hasxjicon">
+                                        <a class="xjicon" href="https://imfw.cn/l/22837153" target="_blank" title="星级游记"></a>
+                                                                <a class="tn-from-app" href="javascript:void(0);"><i></i>APP<img src="http://images.mafengwo.net/images/mfwapp-notes.png" /></a>
+                                        <a href="/i/11929426.html" class="title-link" target="_blank">·和不吃辣的母亲大人一起，逛重庆和成都</a>
+                </dt>
+                <dd><a href="/i/11929426.html" target="_blank">母上大人曾经无辣不欢，现在由于身体原因一点辣都不能沾；
+我住在北京最辣的簋街旁，曾经没有辣就吃不下饭，却因去年犯了肠胃炎开始容易胃痛；
+这样的两人踏上了眼馋流口水的找虐之旅…
+在这呆了几天我发现两个现象：
+一、来成都和重庆旅行或生活的外国人比例相当少，我猜多半...</a></dd>
+            </dl>
+            <div class="tn-extra">
+                <span class="tn-ding">
+                    <a class="btn-ding" href="javascript:" data-japp="articleding" data-iid="11929426" data-vote="179"></a>
+                    <em id="topvote11929426">179</em>
+                </span>
+                
+                <span class="tn-user"><a href="/u/88330947.html" target="_blank" rel="nofollow"><img src="http://b2-q.mafengwo.net/s12/M00/18/00/wKgED1xIBiuAII9gAACFyih7EBY57.jpeg?imageMogr2%2Fthumbnail%2F%2116x16r%2Fgravity%2FCenter%2Fcrop%2F%2116x16%2Fquality%2F90" />小付婆viola</a></span>
+                <span class="tn-nums"><i></i>4009/27</span>
+            </div>
+        </div>
+    </div>
+                                <div class="tn-item clearfix">
+        <div class="tn-image">
+            <a href="/i/12076402.html" target="_blank">
+                <img class="lazy" data-original="http://p3-q.mafengwo.net/s13/M00/1F/FE/wKgEaVyIy2-Ac6GRABuPRKn69YY25.jpeg?imageMogr2%2Fthumbnail%2F%21250x185r%2Fgravity%2FCenter%2Fcrop%2F%21250x185%2Fquality%2F90" width="220" height="150" alt="·川渝两重天 | 四天四夜深度盘重庆成都(内含川美、交通茶馆、洪崖洞、熊猫基地……)_游记" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                            </a>
+        </div>
+        <div class="tn-wrapper" data-focus="" data-topsort="" data-star="0">
+            <dl>
+                <dt class="hasxjicon">
+                                        <a class="xjicon" href="https://imfw.cn/l/22837153" target="_blank" title="星级游记"></a>
+                                                                <a class="tn-from-app" href="javascript:void(0);"><i></i>APP<img src="http://images.mafengwo.net/images/mfwapp-notes.png" /></a>
+                                        <a href="/i/12076402.html" class="title-link" target="_blank">·川渝两重天 | 四天四夜深度盘重庆成都(内含川美、交通茶馆、洪崖洞、熊猫基地……)</a>
+                </dt>
+                <dd><a href="/i/12076402.html" target="_blank">出行方式:飞机✈+轻轨🚉+高铁🚄+地铁🚇+公交+索道+拜拜车
+🎰出行时间:2019.3.7-2019.3.11
+🏁大致路线:Route重庆+ Route成都
+总消费:2k/人（机票138+660+高铁97+住宿680+bikego115+川剧70+七七八八）
+
+
+Route 重庆
+
+江北机场旁附近酒店→渝中区较场口附近酒店创汇首座→地铁去川...</a></dd>
+            </dl>
+            <div class="tn-extra">
+                <span class="tn-ding">
+                    <a class="btn-ding" href="javascript:" data-japp="articleding" data-iid="12076402" data-vote="6"></a>
+                    <em id="topvote12076402">6</em>
+                </span>
+                
+                <span class="tn-user"><a href="/u/63829133.html" target="_blank" rel="nofollow"><img src="http://p3-q.mafengwo.net/s12/M00/05/C7/wKgED1vEET6AbDZvAAmjLDS3mJI66.jpeg?imageMogr2%2Fthumbnail%2F%2116x16r%2Fgravity%2FCenter%2Fcrop%2F%2116x16%2Fquality%2F90" />淡行狗🐶</a></span>
+                <span class="tn-nums"><i></i>193/2</span>
+            </div>
+        </div>
+    </div>
+                                <div class="tn-item clearfix">
+        <div class="tn-image">
+            <a href="/i/12120458.html" target="_blank">
+                <img class="lazy" data-original="http://b3-q.mafengwo.net/s13/M00/BC/71/wKgEaVyGegOASgF3AAocNY4otUc62.jpeg" width="220" height="150" alt="·从你的全世界路过（重庆到武隆）_游记" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                            </a>
+        </div>
+        <div class="tn-wrapper" data-focus="" data-topsort="" data-star="0">
+            <dl>
+                <dt class="hasxjicon">
+                                        <a class="xjicon" href="https://imfw.cn/l/22837153" target="_blank" title="星级游记"></a>
+                                                            <a href="/i/12120458.html" class="title-link" target="_blank">·从你的全世界路过（重庆到武隆）</a>
+                </dt>
+                <dd><a href="/i/12120458.html" target="_blank">重庆是个非常值得来旅游（吃）的城市，面积辽阔，交通便利，旅游业成熟，其地貌、景点、人文、建筑、美食以及周边至少要花一个星期时间才能玩转。
+我此行做了详细的攻略，行程安排的很满，每天几乎都是暴走，花了8天时间还有很多地方没有来得及打卡。
+
+行程安排：
+第一天：解放...</a></dd>
+            </dl>
+            <div class="tn-extra">
+                <span class="tn-ding">
+                    <a class="btn-ding" href="javascript:" data-japp="articleding" data-iid="12120458" data-vote="5"></a>
+                    <em id="topvote12120458">5</em>
+                </span>
+                
+                <span class="tn-user"><a href="/u/62511338.html" target="_blank" rel="nofollow"><img src="http://n2-q.mafengwo.net/s13/M00/4B/60/wKgEaVyH32GAOMfPAAbrikyWdBY76.jpeg?imageMogr2%2Fthumbnail%2F%2116x16r%2Fgravity%2FCenter%2Fcrop%2F%2116x16%2Fquality%2F90" />香城雪子</a></span>
+                <span class="tn-nums"><i></i>50/0</span>
+            </div>
+        </div>
+    </div>
+                                <div class="tn-item clearfix">
+        <div class="tn-image">
+            <a href="/i/11925010.html" target="_blank">
+                <img class="lazy" data-original="http://n3-q.mafengwo.net/s13/M00/EE/AA/wKgEaVxvpPaAVptXAAwYJ3f2N-Y02.jpeg?imageMogr2%2Fthumbnail%2F%21250x185r%2Fgravity%2FCenter%2Fcrop%2F%21250x185%2Fquality%2F90" width="220" height="150" alt="·在3D城市吃着火锅，看着江景，去木材厂拍ins照【重庆四日】_游记" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                            </a>
+        </div>
+        <div class="tn-wrapper" data-focus="" data-topsort="" data-star="0">
+            <dl>
+                <dt class="hasxjicon">
+                                        <a class="xjicon" href="https://imfw.cn/l/22837153" target="_blank" title="星级游记"></a>
+                                                            <a href="/i/11925010.html" class="title-link" target="_blank">·在3D城市吃着火锅，看着江景，去木材厂拍ins照【重庆四日】</a>
+                </dt>
+                <dd><a href="/i/11925010.html" target="_blank">北京 游记： http://www.mafengwo.cn/i/3254978.html 
+
+厦门 游记： http://www.mafengwo.cn/i/3255786.html 
+
+成都 、 九寨沟 游记： http://www.mafengwo.cn/i/3256315.html 
+
+云南 昆大丽游记： http://www.mafengwo.cn/i/3271173.html 
+
+韩国 首尔 游记： http://www.mafen...</a></dd>
+            </dl>
+            <div class="tn-extra">
+                <span class="tn-ding">
+                    <a class="btn-ding" href="javascript:" data-japp="articleding" data-iid="11925010" data-vote="38"></a>
+                    <em id="topvote11925010">38</em>
+                </span>
+                
+                <span class="tn-user"><a href="/u/5707695.html" target="_blank" rel="nofollow"><img src="http://b3-q.mafengwo.net/s12/M00/C6/44/wKgED1v6lVeAMjEdAAkJBddDKnU62.jpeg?imageMogr2%2Fthumbnail%2F%2116x16r%2Fgravity%2FCenter%2Fcrop%2F%2116x16%2Fquality%2F90" />能豆豆🐑</a></span>
+                <span class="tn-nums"><i></i>519/6</span>
+            </div>
+        </div>
+    </div>
+        </div>
+
+                </div>
+                <div class="_pagebar">
+                        <div align="right" class="m-pagination">
+        <span class="count">共<span>300</span>页 / <span>3000</span>条</span>
+                        
+                                    <span class="pg-current">1</span>
+                                                <a class="pi" href="/yj/10208/1-0-2.html" title="第2页">2</a>
+                                                <a class="pi" href="/yj/10208/1-0-3.html" title="第3页">3</a>
+                                                <a class="pi" href="/yj/10208/1-0-4.html" title="第4页">4</a>
+                                                <a class="pi" href="/yj/10208/1-0-5.html" title="第5页">5</a>
+                                                <a class="pi" href="/yj/10208/1-0-6.html" title="第6页">6</a>
+                            
+                    <a class="pi pg-next" href="/yj/10208/1-0-2.html" title="后一页">后一页</a>
+            <a class="pi pg-last" href="/yj/10208/1-0-300.html" title="末页">末页</a>
+            </div>
+
+                </div>
+                
+                    </div>
+        <div class="relcontent xc" style="display: none">
+            <div class="p-content">
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+            <div class="row row-allPlace">
+            <div class="wrapper">
+                <div class="maps">
+                    <!--<div id="miniMap" style="width:980px;height:246px;"></div>-->
+                    <img src="http://n4-q.mafengwo.net/s8/M00/48/4F/wKgBpVX7wKmAUM1VAAFiggK1__k42.jpeg" width="980" height="230" />
+                                            <div class="trigger">
+                            <a class="btn" href="/hotel/list_map.php?mddid=10208" target="_blank">重庆共有1687个去处，159628个美食和8686个住宿。</a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    
+    
+    <div id="pagelet-block-a7681ae498d937a97ede30e147c6587a" class="pagelet-block" data-api=":mdd:pagelet:aroundMddApi" data-params="{&quot;iMddid&quot;:&quot;10208&quot;}" data-async="1" data-controller="">    <div class="row row-placeList row-bg">
+        <div class="wrapper">
+            <h2 class="r-title">重庆周边目的地</h2>
+            <div class="bd">
+                <ul class="clearfix">
+                                                                <li class="item">
+                            <div class="img">
+                                <a href="/travel-scenic-spot/mafengwo/11911.html" target="_blank">
+                                    <img class="lazy" data-original="http://b1-q.mafengwo.net/s7/M00/B8/76/wKgB6lSrxAGAdw3gAAKzUZlh0tQ85.jpeg?imageMogr2%2Fthumbnail%2F%21320x200r%2Fgravity%2FCenter%2Fcrop%2F%21320x200%2Fquality%2F100" height="200" width="320" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                </a>
+                            </div>
+                            <dl class="caption">
+                                <dt>
+                                    <a href="/travel-scenic-spot/mafengwo/11911.html" target="_blank"><strong>武隆</strong><br /><b>4346</b>人去过</a>
+                                </dt>
+                                <dd>
+                                                                                                                <a href="/poi/1698.html" target="_blank">武隆天生三桥</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/6047515.html" target="_blank">仙女山国家森林公园</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/6047520.html" target="_blank">武隆龙水峡地缝</a>
+                                                                                                            </dd>
+                            </dl>
+                        </li>
+                                                                <li class="item">
+                            <div class="img">
+                                <a href="/travel-scenic-spot/mafengwo/10046.html" target="_blank">
+                                    <img class="lazy" data-original="http://p4-q.mafengwo.net/s10/M00/6D/9D/wKgBZ1n2_sCAIToTAAcV0bAFU2o08.jpeg?imageMogr2%2Fthumbnail%2F%21320x200r%2Fgravity%2FCenter%2Fcrop%2F%21320x200%2Fquality%2F100" height="200" width="320" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                </a>
+                            </div>
+                            <dl class="caption">
+                                <dt>
+                                    <a href="/travel-scenic-spot/mafengwo/10046.html" target="_blank"><strong>赤水</strong><br /><b>2304</b>人去过</a>
+                                </dt>
+                                <dd>
+                                                                                                                <a href="/poi/15973.html" target="_blank">赤水大瀑布景区</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/15975.html" target="_blank">四洞沟景区</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/15943.html" target="_blank">丙安古镇</a>
+                                                                                                            </dd>
+                            </dl>
+                        </li>
+                                                                <li class="item">
+                            <div class="img">
+                                <a href="/travel-scenic-spot/mafengwo/14653.html" target="_blank">
+                                    <img class="lazy" data-original="http://n4-q.mafengwo.net/s7/M00/EF/D9/wKgB6lSjtImAQLMZAAi0SjGklIU921.png?imageMogr2%2Fthumbnail%2F%21320x200r%2Fgravity%2FCenter%2Fcrop%2F%21320x200%2Fquality%2F100" height="200" width="320" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                </a>
+                            </div>
+                            <dl class="caption">
+                                <dt>
+                                    <a href="/travel-scenic-spot/mafengwo/14653.html" target="_blank"><strong>自贡</strong><br /><b>3222</b>人去过</a>
+                                </dt>
+                                <dd>
+                                                                                                                <a href="/poi/2614416.html" target="_blank">自贡恐龙博物馆</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/5504057.html" target="_blank">自贡国际恐龙灯会</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/5440632.html" target="_blank">自贡市盐业历史博物馆</a>
+                                                                                                            </dd>
+                            </dl>
+                        </li>
+                                                                <li class="item">
+                            <div class="img">
+                                <a href="/travel-scenic-spot/mafengwo/18829.html" target="_blank">
+                                    <img class="lazy" data-original="http://b3-q.mafengwo.net/s9/M00/3F/9B/wKgBs1cZl9WAJlEFAAD1UxIIr3c74.jpeg?imageMogr2%2Fthumbnail%2F%21320x200r%2Fgravity%2FCenter%2Fcrop%2F%21320x200%2Fquality%2F100" height="200" width="320" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                </a>
+                            </div>
+                            <dl class="caption">
+                                <dt>
+                                    <a href="/travel-scenic-spot/mafengwo/18829.html" target="_blank"><strong>南充</strong><br /><b>3126</b>人去过</a>
+                                </dt>
+                                <dd>
+                                                                                                                <a href="/poi/6326450.html" target="_blank">阆中古城</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/6326451.html" target="_blank">阆中贡院</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/6777244.html" target="_blank">阆中李家大院</a>
+                                                                                                            </dd>
+                            </dl>
+                        </li>
+                                                                <li class="item">
+                            <div class="img">
+                                <a href="/travel-scenic-spot/mafengwo/13518.html" target="_blank">
+                                    <img class="lazy" data-original="http://n1-q.mafengwo.net/s7/M00/8E/66/wKgB6lSooMaALgpoAAmxjASVcxc796.png?imageMogr2%2Fthumbnail%2F%21320x200r%2Fgravity%2FCenter%2Fcrop%2F%21320x200%2Fquality%2F100" height="200" width="320" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                </a>
+                            </div>
+                            <dl class="caption">
+                                <dt>
+                                    <a href="/travel-scenic-spot/mafengwo/13518.html" target="_blank"><strong>泸州</strong><br /><b>2905</b>人去过</a>
+                                </dt>
+                                <dd>
+                                                                                                                <a href="/poi/2887884.html" target="_blank">尧坝古镇旅游区</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/17309284.html" target="_blank">清溪谷旅游区•花田酒地景区</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/6776105.html" target="_blank">福宝古镇</a>
+                                                                                                            </dd>
+                            </dl>
+                        </li>
+                                                                <li class="item">
+                            <div class="img">
+                                <a href="/travel-scenic-spot/mafengwo/14238.html" target="_blank">
+                                    <img class="lazy" data-original="http://p1-q.mafengwo.net/s9/M00/F0/D8/wKgBs1Zf986AKUzsAAML6t8uEkc44.jpeg?imageMogr2%2Fthumbnail%2F%21320x200r%2Fgravity%2FCenter%2Fcrop%2F%21320x200%2Fquality%2F100" height="200" width="320" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                </a>
+                            </div>
+                            <dl class="caption">
+                                <dt>
+                                    <a href="/travel-scenic-spot/mafengwo/14238.html" target="_blank"><strong>遂宁</strong><br /><b>3139</b>人去过</a>
+                                </dt>
+                                <dd>
+                                                                                                                <a href="/poi/5503545.html" target="_blank">中国死海旅游度假区</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/8752891.html" target="_blank">灵泉寺风景区</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/5427413.html" target="_blank">中国观音故里．灵泉风景区</a>
+                                                                                                            </dd>
+                            </dl>
+                        </li>
+                                                                <li class="item">
+                            <div class="img">
+                                <a href="/travel-scenic-spot/mafengwo/16050.html" target="_blank">
+                                    <img class="lazy" data-original="http://p2-q.mafengwo.net/s7/M00/FA/49/wKgB6lSt7I2ADlv5AAZsN5xnwec236.png?imageMogr2%2Fthumbnail%2F%21320x200r%2Fgravity%2FCenter%2Fcrop%2F%21320x200%2Fquality%2F100" height="200" width="320" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                </a>
+                            </div>
+                            <dl class="caption">
+                                <dt>
+                                    <a href="/travel-scenic-spot/mafengwo/16050.html" target="_blank"><strong>磁器口古镇</strong><br /><b>1673</b>人去过</a>
+                                </dt>
+                                <dd>
+                                                                                                                <a href="/poi/23951.html" target="_blank">磁器口古镇</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/9267.html" target="_blank">宝轮寺</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/5979895.html" target="_blank">懒鱼时光馆</a>
+                                                                                                            </dd>
+                            </dl>
+                        </li>
+                                                                <li class="item">
+                            <div class="img">
+                                <a href="/travel-scenic-spot/mafengwo/21831.html" target="_blank">
+                                    <img class="lazy" data-original="http://p4-q.mafengwo.net/s7/M00/A6/9A/wKgB6lSovo-AR4SnAAnlJ_9Kpbk168.png?imageMogr2%2Fthumbnail%2F%21320x200r%2Fgravity%2FCenter%2Fcrop%2F%21320x200%2Fquality%2F100" height="200" width="320" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                </a>
+                            </div>
+                            <dl class="caption">
+                                <dt>
+                                    <a href="/travel-scenic-spot/mafengwo/21831.html" target="_blank"><strong>广安</strong><br /><b>2313</b>人去过</a>
+                                </dt>
+                                <dd>
+                                                                                                                <a href="/poi/2681772.html" target="_blank">邓小平故居陈列馆</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/5429386.html" target="_blank">华蓥山</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/5427208.html" target="_blank">天意谷洞中天河</a>
+                                                                                                            </dd>
+                            </dl>
+                        </li>
+                                                                <li class="item">
+                            <div class="img">
+                                <a href="/travel-scenic-spot/mafengwo/10349.html" target="_blank">
+                                    <img class="lazy" data-original="http://p3-q.mafengwo.net/s7/M00/FB/F7/wKgB6lSt7iWAZUeiAAa6CjPQ07k100.png?imageMogr2%2Fthumbnail%2F%21320x200r%2Fgravity%2FCenter%2Fcrop%2F%21320x200%2Fquality%2F100" height="200" width="320" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
+                                </a>
+                            </div>
+                            <dl class="caption">
+                                <dt>
+                                    <a href="/travel-scenic-spot/mafengwo/10349.html" target="_blank"><strong>龚滩古镇</strong><br /><b>1211</b>人去过</a>
+                                </dt>
+                                <dd>
+                                                                                                                <a href="/poi/33795988.html" target="_blank">西秦会馆</a>
+                                                                                <span class="divide"></span>
+                                                                                                                    <a href="/poi/34845208.html" target="_blank">猫的时光邮戏</a>
+                                                                                                            </dd>
+                            </dl>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+        </div>
+
+<script type="text/javascript">
+    var map = {
+                'zoom': 0,// || 0,
+                'lat': 29.562999725342,
+                'lng': 106.55200195312
+            },
+            amap = {"aMarks":[{"mddname":"\u91cd\u5e86","left":"173px","top":"215px","iconcolor":"icon-a","iconfont":"false","mddid":10208},{"mddname":"\u6b66\u9686","left":"253px","top":"231px","iconcolor":"icon-b","iconfont":"true","mddid":11911},{"mddname":"\u4e07\u5dde","left":"313px","top":"105px","iconcolor":"icon-b","iconfont":"true","mddid":19042},{"mddname":"\u6f7c\u5357","left":"114px","top":"167px","iconcolor":"icon-b","iconfont":"true","mddid":16354},{"mddname":"\u9149\u9633","left":"342px","top":"282px","iconcolor":"icon-b","iconfont":"true","mddid":66262},{"mddname":"\u6210\u90fd","left":"0px","top":"118px","iconcolor":"icon-b","iconfont":"false","mddid":10035},{"mddname":"\u8d35\u9633","left":"190px","top":"320px","iconcolor":"icon-b","iconfont":"false","mddid":11239},{"mddname":"\u5e7f\u5143","left":"166px","top":"50px","iconcolor":"icon-b","iconfont":"true","mddid":14669}],"sTop":"123px","sLeft":"100px","iMddid":10208};
+    function setPageletBg() {
+        var rows = $('#container &gt;.row,#container .pagelet-block &gt;.row'),
+                pos = 0, i, len;
+        for (i = 0, len = rows.length; i &lt; len; i++) {
+            $(rows[i])[i % 2 == 0 ? 'addClass' : 'removeClass']('row-bg');
+        }
+    }
+    setPageletBg();
+    M.Event.on('pagelet loaded', function(data){
+        setPageletBg();
+        data.pagelet.container.find('img.lazy').lazyload({
+            threshold : 400
+        });
+    });
+</script>
+<script language="javascript" src="http://js.mafengwo.net/js/cv/js+mfw.delegation:js+ajaxupload:js+jquery.lazyload.1.9.3^ZlM^1537192880.js" type="text/javascript" crossorigin="anonymous"></script>
+
+<link href="http://css.mafengwo.net/css/mfw-footer.css?1542357401" rel="stylesheet" type="text/css" />
+
+<div id="footer">
+	<div class="ft-content" style="width: 1105px">
+		<div class="ft-info clearfix">
+    <dl class="ft-info-col ft-info-intro">
+        <dt>全球旅游消费指南 </dt>
+        <dd>覆盖全球200多个国家和地区</dd>
+        <dd><strong>100,000,000</strong> 位旅行者</dd>
+        <dd><strong>920,000</strong> 家国际酒店</dd>
+        <dd><strong>21,000,000</strong> 条真实点评</dd>
+        <dd><strong>382,000,000</strong> 次攻略下载</dd>
+        <dd><a class="highlight" href="http://www.mafengwo.cn/activity/sales_report2017/index" target="_blank">马蜂窝全球自由行“玩法”</a></dd>
+    </dl>
+    <dl class="ft-info-col ft-info-about">
+        <dt>关于我们</dt>
+        <dd><a href="http://www.mafengwo.cn/s/about.html" rel="nofollow">关于马蜂窝</a><a href="http://www.mafengwo.cn/s/contact.html" class="m_l_10" rel="nofollow">联系我们</a></dd>
+        <dd><a href="http://www.mafengwo.cn/s/private.html" rel="nofollow">隐私政策</a><a href="http://www.mafengwo.cn/s/logo.html" rel="nofollow" class="m_l_10">商标声明</a></dd>
+        <dd><a href="http://www.mafengwo.cn/s/agreement.html" rel="nofollow">服务协议</a><a href="http://www.mafengwo.cn/s/rules.html" rel="nofollow" class="m_l_10">游记协议</a></dd>
+        <dd><a href="http://www.mafengwo.cn/s/salesagreement.html" rel="nofollow">商城平台服务协议</a></dd>
+        <dd><a href="http://www.mafengwo.cn/s/property.html" rel="nofollow">网络信息侵权通知指引</a></dd>
+        <dd><a href="http://www.mafengwo.cn/s/sitemap.html" target="_blank">网站地图</a><a class="joinus highlight m_l_10" title="马蜂窝团队招聘" target="_blank" href="https://app.mokahr.com/apply/mafengwo1/173#/page/社会招聘?_k=j4j3ux" rel="nofollow">加入马蜂窝</a></dd>
+    </dl>
+    <dl class="ft-info-col ft-info-service">
+        <dt>旅行服务</dt>
+        <dd>
+            <ul class="clearfix">
+                <li><a target="_blank" href="http://www.mafengwo.cn/gonglve/">旅游攻略</a></li>
+                <li><a target="_blank" href="http://www.mafengwo.cn/hotel/">酒店预订</a></li>
+                <li><a target="_blank" href="http://www.mafengwo.cn/sales/">旅游特价</a></li>
+                <li><a target="_blank" href="http://zuche.mafengwo.cn/">国际租车</a></li>
+                <li><a target="_blank" href="http://www.mafengwo.cn/wenda/">旅游问答</a></li>
+                <li><a target="_blank" href="http://www.mafengwo.cn/insure/">旅游保险</a></li>
+                <li><a target="_blank" href="http://z.mafengwo.cn">旅游指南</a></li>
+                <li><a target="_blank" href="http://huoche.mafengwo.cn">订火车票</a></li>
+                <li><a target="_blank" href="http://www.mafengwo.cn/travel-news/">旅游资讯</a></li>
+                <li><a target="_blank" href="http://www.mafengwo.cn/app/intro/gonglve.php">APP下载</a></li>
+                <li style="width: 120px;"><a target="_blank" href="http://www.mafengwo.cn/sales/alliance.php" class="highlight">旅行商城全球商家入驻</a></li>
+            </ul>
+        </dd>
+    </dl>
+    <dl class="ft-info-col ft-info-qrcode">
+        <dd>
+            <span class="ft-qrcode-tejia"></span>
+            <p>马蜂窝良品<br />官方服务号</p>
+        </dd>
+        <dd>
+            <span class="ft-qrcode-weixin"></span>
+            <p>马蜂窝旅游<br />订阅号</p>
+        </dd>
+        <dd>
+            <span class="ft-qrcode-weixin" style="background-image: url('https://p3-q.mafengwo.net/s10/M00/48/A9/wKgBZ1t_4sSAVJ6uAAAlzJ0PZgU881.png?imageMogr2%2Fthumbnail%2F%2194x90r%2Fgravity%2FCenter%2Fcrop%2F%2194x90%2Fquality%2F90')"></span>
+            <p>马蜂窝APP<br />扫描立即下载</p>
+        </dd>
+    </dl>
+    <dl class="ft-info-social">
+        <dt>向崇尚自由的加勒比海盗致敬！</dt>
+        <dd>
+            <a class="ft-social-weibo" target="_blank" href="http://weibo.com/mafengwovip" rel="nofollow"><i class="ft-social-icon"></i></a>
+            <a class="ft-social-qqt" target="_blank" href="http://t.qq.com/mafengwovip" rel="nofollow"><i class="ft-social-icon"></i></a>
+            <a class="ft-social-qzone" target="_blank" href="http://1213600479.qzone.qq.com/" rel="nofollow"><i class="ft-social-icon"></i></a>
+        </dd>
+    </dl>
+</div>
+
+		<div class="ft-copyright">
+    <a href="http://www.mafengwo.cn"><i class="ft-mfw-logo"></i></a>
+    <p>© 2019 Mafengwo.cn <a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">京ICP备11015476号</a> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502013401" target="_blank"><img src="http://images.mafengwo.net/images/footer/police_record.png" width="12" style="margin:0 2px 4px 0;" />京公网安备11010502013401号</a> <a href="http://images.mafengwo.net/images/about/icp2.jpg" target="_blank" rel="nofollow">京ICP证110318号</a><span class="m_l_10">违法和不良信息举报电话: 010-59222790 举报邮箱 mfwyouji@mafengwo.com</span></p>
+    <p>网络出版服务许可证：(总)网出证(京)字第161号<span class="m_l_10">增值电信业务经营许可证：京B2-20180228</span> <a href="https://n1-q.mafengwo.net/s12/M00/A5/45/wKgED1xJi3uAA7KLAAf_CkKLHRQ87.jpeg" target="_blank" rel="nofollow" class="m_l_10">营业执照</a><a href="/sales/uhelp/doc" target="_blank" rel="nofollow" class="m_l_10">帮助中心</a><span class="m_l_10">马蜂窝客服：国内</span><span class="highlight">4006-345-678</span><span class="m_l_10">海外</span> <span class="highlight">+86-10-5922-2799</span></p>
+</div>
+<div class="ft-safety">
+    <a class="s-a" target="_blank" href="https://search.szfw.org/cert/l/CX20140627008255008321" id="___szfw_logo___"></a>
+    <a class="s-b" href="https://ss.knet.cn/verifyseal.dll?sn=e130816110100420286o93000000&amp;ct=df&amp;a=1&amp;pa=787189" target="_blank" rel="nofollow"></a>
+    <a class="s-c" href="http://www.itrust.org.cn/Home/Index/itrust_certifi/wm/1669928206.html" target="_blank" rel="nofollow"></a>
+</div>
+
+	</div>
+</div>
+<style>
+    #ad2{ padding: 10px 0;display: block;position: fixed;bottom: 0;z-index: 100;left: -200px;}
+    #ad1{ display: block;position: fixed;bottom: 0;left: -100%;z-index: 100;width:100% }
+</style>
+<div id="ad2">
+    <img src="https://n1-q.mafengwo.net/s12/M00/8F/63/wKgED1v2S7aAO1drAABuUZN2gxA275.png" style="width: 150px" />
+    <div style="width: 24px;height: 24px;background-color: #fba811;opacity: 0.65;position: absolute;border-radius: 3px;right: 3px;top: 35px;z-index: 100;">
+        <img id="closed" style="height: 16px;width: 16px;position: absolute;left: 49%;margin-left: -8px;top: 50%;margin-top: -8px;" src="https://b3-q.mafengwo.net/s12/M00/2F/CB/wKgED1vRt4KASg2mAAABpQUDI6w478.png" /></div>
+</div>
+<div id="ad1" style="left: 0px;">
+    <div style="width: 100%;height:150px;background-image: url('https://p1-q.mafengwo.net/s12/M00/88/B1/wKgED1v2Rx-ARJIPAAFGdDDLSJ8315.png');position: relative">
+        <img id="close" style="height: 20px;width: 20px;float: right;padding-top: 10px;padding-right: 10px" src="https://b3-q.mafengwo.net/s12/M00/2F/CB/wKgED1vRt4KASg2mAAABpQUDI6w478.png" /></div>
+    <div style="position: absolute;right: 50%;margin-right: -340px;bottom: 0;width: 730px;">
+        <img src="https://n3-q.mafengwo.net/s12/M00/8E/DD/wKgED1v2S1KAOy1aAAMKl5oW56M494.png" style="height: 180px" />
+    </div>
+</div>
+<script>
+    $(function () {
+        if(!(location.href.match(/www\.mafengwo\.cn\/hotel/g) ||
+            location.href.match(/www\.mafengwo\.cn\/sales/g) ||
+            location.href.match(/www\.mafengwo\.cn\/$/g) ||
+            location.href.match(/www\.mafengwo\.cn\/mdd\/$/g) ||
+            location.href.match(/www\.mafengwo\.cn\/gonglve\/$/g)||
+            location.href.match(/gonglve\/ziyouxing\/(modify|home|comment)/g)
+        )){
+            if(getCookie('all_ad')!=='1'){
+                $("#ad1").animate({ left:0,},1500,'swing');
+                setTimeout(function () {
+                    $("#ad1").animate({ left:-window.innerWidth,},1500,'swing');
+                }, 3000);
+                setTimeout(function () {
+                    $("#ad2").animate({ left:0,},500,'swing');
+                    $("#ad1").hide();
+                }, 4500);
+                add_cookie('all_ad');
+            }else{
+                if(getCookie('ad_hide')!=='1')
+                $("#ad2").animate({ left:0,},1000,'swing');
+            }
+        }
+    });
+
+    $('#ad2 img').click(function (){
+        $("#ad2").animate({ left:-200,},500,'swing');
+        setTimeout(function () {
+            $("#ad1").show();
+            $("#ad1").css('width','100%');
+            $("#ad1").animate({ left:0,},1000,'swing');
+        }, 800);
+    });
+    $('#close').click(function () {
+        $("#ad1").animate({ left:-window.innerWidth,},1000,'swing');
+        setTimeout(function () {
+            $("#ad2").animate({ left:0,},800,'swing');
+            $("#ad1").hide();
+        }, 1000);
+    });
+    $("#ad2 div").click(function () {
+        $("#ad1").animate({ left:-window.innerWidth,},1000,'swing');
+        setTimeout(function () {
+            $("#ad2").animate({ left:-200,},800,'swing');
+            $("#ad1").hide();
+        }, 1000);
+        add_cookie('ad_hide');
+    });
+
+    function add_cookie(name) {
+        var exp = new Date();
+        exp.setTime(exp.getTime() + 60*1000*60);
+        document.cookie=name+'=1;expires='+exp.toGMTString()+';path=/';
+    }
+    function getCookie(cname)
+    {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+
+        for(var i=0; i&lt;ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1);
+            if (c.indexOf(name) != -1) return c.substring(name.length, c.length);
+        }
+
+        return "";
+    }
+</script>
+
+
+
+<link href="http://css.mafengwo.net/css/mfw-toolbar.css?1537192876" rel="stylesheet" type="text/css" />
+
+<div class="mfw-toolbar" id="_j_mfwtoolbar" style="display: block;">
+    <div class="toolbar-item-top" style="display: none;">
+		<a role="button" class="btn _j_gotop">
+			<i class="icon_top"></i>
+            <em>返回顶部</em>
+		</a>
+	</div>
+	<div class="toolbar-item-feedback">
+		<a role="button" data-japp="feedback" class="btn">
+			<i class="icon_feedback"></i>
+            <em>意见反馈</em>
+		</a>
+	</div>
+	<div class="toolbar-item-code">
+		<a role="button" class="btn">
+			<i class="icon_code"></i>
+		</a>
+		<a role="button" class="mfw-code _j_code">
+            
+			
+            <img src="https://p1-q.mafengwo.net/s1/M00/6C/51/wKgIC1t_6TuASybrAADGUPUHjr021.jpeg?imageMogr2%2Fthumbnail%2F%21450x192r%2Fgravity%2FCenter%2Fcrop%2F%21450x192%2Fquality%2F90" width="450" height="192" />
+		</a>
+        <!--<div class="wx-official-pop"><img src="http://images.mafengwo.net/images/qrcode-weixin.gif"><i class="_j_closeqrcode"></i></div>-->
+	</div>
+    
+</div>
+
+
+<script language="javascript" type="text/javascript">
+if (typeof M !== "undefined" &amp;&amp; typeof M.loadResource === "function") {
+M.loadResource("http://js.mafengwo.net/js/cv/js+Dropdown:js+pageletcommon+pageHeadUserInfoWWWNormal:js+jquery.tmpl:js+M+module+InputListener:js+M+module+SuggestionXHR:js+M+module+DropList:js+M+module+Suggestion:js+M+module+MesSearchEvent:js+SiteSearch:js+AHeader:js+hotel+mfwmap+mfwmap-util:js+hotel+mfwmap+mfwmap-event:js+hotel+mfwmap+mfwmap-runtime-google:js+hotel+mfwmap+mfwmap-runtime-amap:js+hotel+mfwmap+mfwmap-runtime-leaflet:js+hotel+mfwmap+mfwmap:js+hotel+mfwmap+mfwmap-overlays:js+mdd+mdddetailroute:js+mdd+ControllerHotelTag:js+mdd+mdd_detail:js+M+module+PageAdmin:js+M+module+Storage:js+M+module+Cookie:js+M+module+ResourceKeeper:js+jquery.jgrowl.min:js+AMessage:js+M+module+dialog+Layer:js+M+module+dialog+DialogBase:js+M+module+dialog+Dialog:js+M+module+dialog+alert:js+M+module+FrequencyVerifyControl:js+M+module+FrequencySystemVerify:js+ALogin:js+M+module+ScrollObserver:js+M+module+QRCode:js+AToolbar:js+ACnzzGaLog:js+ARecruit:js+ALazyLoad^alRS^1552035728.js");
+}
+</script>
+
+
+
+<script type="text/javascript" src="http://webapi.amap.com/maps?v=1.3&amp;key=b2cf7b957c24323add8c497ed3512e15&amp;callback=initAMap"></script><script charset="utf-8" src="http://webapi.amap.com/maps/main?v=1.3&amp;key=b2cf7b957c24323add8c497ed3512e15&amp;m=http,map,anip,layers,overlay0,brender,mrender,mouse,vectorlayer,overlay,cmng,cgl,sync&amp;vrs=1536672475627"></script></body></html>

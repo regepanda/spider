@@ -5,7 +5,7 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import json
-from spider.items import LiajiaItem
+from spider.items import LiajiaItem, MaFengWoItem
 
 
 class LiajiaPipeline(object):
@@ -15,7 +15,8 @@ class LiajiaPipeline(object):
         :param spider:
         :return:
         """
-        self.file = open('lianjia.json', 'a', encoding='utf-8')
+        self.lianjiafile = open('lianjia.json', 'a', encoding='utf-8')
+        self.mafengwofile = open('mafengwo.json', 'a', encoding='utf-8')
 
     def process_item(self, item, spider):
 
@@ -23,7 +24,9 @@ class LiajiaPipeline(object):
 
         # 判断数据来源于哪里（是哪个类的实例），写入对应的文件
         if isinstance(item, LiajiaItem):
-            self.file.write(content + '\n')
+            self.lianjiafile.write(content + '\n')
+        if isinstance(item, MaFengWoItem):
+            self.mafengwofile.write(content + '\n')
 
         return item
 
@@ -33,4 +36,5 @@ class LiajiaPipeline(object):
         :param spider:
         :return:
         """
-        self.file.close()
+        self.lianjiafile.close()
+        self.mafengwofile.close()
